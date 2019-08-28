@@ -1,0 +1,5 @@
+<map id="usb_standard_get_descriptor" name="usb_standard_get_descriptor">
+<area shape="rect" id="node2" href="$group__usb__standard__file.html#gaf8a21c66ec88535a258872791c468098" title="build_config_descriptor" alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node3" href="$group__usb__standard__file.html#gaf52328d55b34702e49cb14ec9005ca19" title="usb_descriptor_index" alt="" coords="247,56,393,83"/>
+<area shape="rect" id="node4" href="$group__usb__standard__file.html#ga2df65bb0dcba3643cde420b3fdc08ff0" title="usb_descriptor_type" alt="" coords="251,107,389,133"/>
+</map>

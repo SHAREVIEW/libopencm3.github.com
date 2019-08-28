@@ -1,0 +1,6 @@
+<map id="can.c" name="can.c">
+<area shape="rect" id="node2" href="$can_8h.html" title="libopencm3/stm32/can.h" alt="" coords="48,80,212,107"/>
+<area shape="rect" id="node7" href="$rcc_8h.html" title="libopencm3/stm32/rcc.h" alt="" coords="236,80,397,107"/>
+<area shape="rect" id="node3" href="$stm32_2memorymap_8h.html" title="libopencm3/stm32/memorymap.h" alt="" coords="5,155,220,181"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="244,155,427,181"/>
+</map>

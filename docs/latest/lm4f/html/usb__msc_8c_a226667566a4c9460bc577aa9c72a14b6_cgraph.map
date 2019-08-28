@@ -1,0 +1,22 @@
+<map id="msc_set_config" name="msc_set_config">
+<area shape="rect" id="node2" href="$usb__msc_8c.html#afb892285509db3e128289c23525df6aa" title="Handle various control requests related to the msc storage interface. " alt="" coords="170,152,313,179"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#a41a8c24958254f6628787f0a97befc1c" title="Handle the USB &#39;OUT&#39; requests. " alt="" coords="182,254,301,280"/>
+<area shape="rect" id="node19" href="$usb__msc_8c.html#a88700274691bf361f44a0e3b5703ec9f" title="Handle the USB &#39;IN&#39; requests. " alt="" coords="182,203,301,230"/>
+<area shape="rect" id="node20" href="$group__usb__driver__defines.html#gaadc222d45c63e01811952f8478ac7943" title="Setup an endpoint. " alt="" coords="186,304,297,331"/>
+<area shape="rect" id="node21" href="$group__usb__driver__defines.html#ga86f80b7593ee05d364fd791896213e38" title="Registers a control callback. " alt="" coords="168,356,315,397"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#ad834e80e08a1fc52cb6c2a7e4c60e7c4" title="scsi_command" alt="" coords="383,254,494,280"/>
+<area shape="rect" id="node17" href="$group__usb__driver__defines.html#gabd42dc86361dbf9c639fd883ada1f572" title="Read a packet. " alt="" coords="364,304,513,331"/>
+<area shape="rect" id="node18" href="$group__usb__driver__defines.html#gaa5b245bdd9757cdc79d1fe721ebcf03f" title="Write a packet. " alt="" coords="363,203,515,230"/>
+<area shape="rect" id="node5" href="$usb__msc_8c.html#acea2b1d4fda2777c7729104dfb3109ba" title="set_sbc_status_good" alt="" coords="749,178,896,204"/>
+<area shape="rect" id="node6" href="$usb__msc_8c.html#a285558a874e454328ae7cba96306b253" title="set_sbc_status" alt="" coords="944,178,1055,204"/>
+<area shape="rect" id="node7" href="$usb__msc_8c.html#a0ba002041133ce594072c4669a888423" title="scsi_format_unit" alt="" coords="573,51,691,78"/>
+<area shape="rect" id="node8" href="$usb__msc_8c.html#a4db898a25d3e9e5a3187c6489a8fcd9d" title="scsi_request_sense" alt="" coords="563,507,701,534"/>
+<area shape="rect" id="node9" href="$usb__msc_8c.html#a3a155b5971bdfabd70a4d964fd175da1" title="scsi_mode_sense_6" alt="" coords="752,406,893,432"/>
+<area shape="rect" id="node10" href="$usb__msc_8c.html#a700c7b32d7db1ab7d9a55fb750cfed1a" title="scsi_read_6" alt="" coords="586,203,678,230"/>
+<area shape="rect" id="node12" href="$usb__msc_8c.html#a85cd7451c1bfc24383b60bd8b53073a1" title="scsi_inquiry" alt="" coords="587,254,677,280"/>
+<area shape="rect" id="node13" href="$usb__msc_8c.html#a40e07cb7889a673d30d93cae4187a5ec" title="scsi_read_capacity" alt="" coords="565,102,699,128"/>
+<area shape="rect" id="node14" href="$usb__msc_8c.html#aa9340553bfc7682037cce665df163506" title="scsi_read_10" alt="" coords="583,304,681,331"/>
+<area shape="rect" id="node15" href="$usb__msc_8c.html#af0e6535bbde2e9a00c6e4c3c77d34540" title="scsi_write_6" alt="" coords="585,406,679,432"/>
+<area shape="rect" id="node16" href="$usb__msc_8c.html#a67ab7f906e09e9fc149b8fa647a91d2f" title="scsi_write_10" alt="" coords="581,355,683,382"/>
+<area shape="rect" id="node11" href="$usb__msc_8c.html#ac5b311ee22d1d86e3bf5d93cd23d78d7" title="get_cbw_buf" alt="" coords="775,304,871,331"/>
+</map>

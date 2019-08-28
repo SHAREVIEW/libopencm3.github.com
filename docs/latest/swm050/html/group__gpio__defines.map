@@ -1,0 +1,7 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__gpio__pin__id.html" title="GPIO Pin Identifiers" alt="" coords="331,5,469,32"/>
+<area shape="rect" id="node2" href="$group__syscon__register.html" title="SYSCON Registers" alt="" coords="331,56,469,83"/>
+<area shape="rect" id="node3" href="$group__gpio__dir.html" title="GPIO Pin Direction" alt="" coords="333,107,467,133"/>
+<area shape="rect" id="node6" href="$group__gpio__registers.html" title="GPIO Registers" alt="" coords="343,157,457,184"/>
+<area shape="rect" id="node5" href="$group__SWM050__defines.html" title="Defined Constants and Types for the SWM050 series. " alt="" coords="5,81,131,108"/>
+</map>

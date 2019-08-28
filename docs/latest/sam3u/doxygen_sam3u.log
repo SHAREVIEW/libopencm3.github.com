@@ -1,0 +1,3 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/sam/common/gpio_common_3a3u3x.c:36: warning: argument 'pin' of command @param is not found in the argument list of gpio_init(uint32_t port, uint32_t pins, enum gpio_flags flags)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/sam/common/gpio_common_3a3u3x.c:42: warning: The following parameters of gpio_init(uint32_t port, uint32_t pins, enum gpio_flags flags) are not documented:
+  parameter 'pins'

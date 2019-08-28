@@ -1,0 +1,14 @@
+<map id="scsi_command" name="scsi_command">
+<area shape="rect" id="node2" href="$usb__msc_8c.html#a0ba002041133ce594072c4669a888423" title="scsi_format_unit" alt="" coords="174,45,293,72"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#acea2b1d4fda2777c7729104dfb3109ba" title="set_sbc_status_good" alt="" coords="351,172,497,198"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a285558a874e454328ae7cba96306b253" title="set_sbc_status" alt="" coords="545,172,656,198"/>
+<area shape="rect" id="node5" href="$usb__msc_8c.html#a85cd7451c1bfc24383b60bd8b53073a1" title="scsi_inquiry" alt="" coords="188,197,279,224"/>
+<area shape="rect" id="node7" href="$usb__msc_8c.html#a3a155b5971bdfabd70a4d964fd175da1" title="scsi_mode_sense_6" alt="" coords="353,400,495,426"/>
+<area shape="rect" id="node8" href="$usb__msc_8c.html#aa9340553bfc7682037cce665df163506" title="scsi_read_10" alt="" coords="184,248,283,274"/>
+<area shape="rect" id="node9" href="$usb__msc_8c.html#a700c7b32d7db1ab7d9a55fb750cfed1a" title="scsi_read_6" alt="" coords="187,298,279,325"/>
+<area shape="rect" id="node10" href="$usb__msc_8c.html#a40e07cb7889a673d30d93cae4187a5ec" title="scsi_read_capacity" alt="" coords="166,96,301,122"/>
+<area shape="rect" id="node11" href="$usb__msc_8c.html#a4db898a25d3e9e5a3187c6489a8fcd9d" title="scsi_request_sense" alt="" coords="164,501,303,528"/>
+<area shape="rect" id="node12" href="$usb__msc_8c.html#a67ab7f906e09e9fc149b8fa647a91d2f" title="scsi_write_10" alt="" coords="182,400,285,426"/>
+<area shape="rect" id="node13" href="$usb__msc_8c.html#af0e6535bbde2e9a00c6e4c3c77d34540" title="scsi_write_6" alt="" coords="186,349,281,376"/>
+<area shape="rect" id="node6" href="$usb__msc_8c.html#ac5b311ee22d1d86e3bf5d93cd23d78d7" title="get_cbw_buf" alt="" coords="376,298,472,325"/>
+</map>

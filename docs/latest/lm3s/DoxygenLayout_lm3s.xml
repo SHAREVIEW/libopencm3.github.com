@@ -1,0 +1,184 @@
+<doxygenlayout version="1.0">
+  <!-- Navigation index tabs for HTML output -->
+  <navindex>
+    <tab title="libopencm3" type="mainpage" visible="yes" />
+    <tab intro="" title="General Information" type="pages" visible="yes" />
+    <tab intro="" title="Back to Top" type="user" url="../../html/index.html" visible="yes" />
+    <tab intro="" title="STM32F0" type="user" url="../../stm32f0/html/modules.html" visible="yes" /><tab intro="" title="STM32F1" type="user" url="../../stm32f1/html/modules.html" visible="yes" /><tab intro="" title="STM32F2" type="user" url="../../stm32f2/html/modules.html" visible="yes" /><tab intro="" title="STM32F3" type="user" url="../../stm32f3/html/modules.html" visible="yes" /><tab intro="" title="STM32F4" type="user" url="../../stm32f4/html/modules.html" visible="yes" /><tab intro="" title="STM32F7" type="user" url="../../stm32f7/html/modules.html" visible="yes" /><tab intro="" title="STM32L0" type="user" url="../../stm32l0/html/modules.html" visible="yes" /><tab intro="" title="STM32L1" type="user" url="../../stm32l1/html/modules.html" visible="yes" /><tab intro="" title="STM32L4" type="user" url="../../stm32l4/html/modules.html" visible="yes" /><tab intro="" title="STM32G0" type="user" url="../../stm32g0/html/modules.html" visible="yes" /><tab intro="" title="GD32F1X0" type="user" url="../../gd32f1x0/html/modules.html" visible="yes" /><tab intro="" title="EFM32G" type="user" url="../../efm32g/html/modules.html" visible="yes" /><tab intro="" title="EFM32GG" type="user" url="../../efm32gg/html/modules.html" visible="yes" /><tab intro="" title="EFM32HG" type="user" url="../../efm32hg/html/modules.html" visible="yes" /><tab intro="" title="EFM32LG" type="user" url="../../efm32lg/html/modules.html" visible="yes" /><tab intro="" title="EFM32TG" type="user" url="../../efm32tg/html/modules.html" visible="yes" /><tab intro="" title="EFM32WG" type="user" url="../../efm32wg/html/modules.html" visible="yes" /><tab intro="" title="EFM32EZR32WG" type="user" url="../../efm32ezr32wg/html/modules.html" visible="yes" /><tab intro="" title="LM3S" type="modules" visible="yes" /><tab intro="" title="LM4F" type="user" url="../../lm4f/html/modules.html" visible="yes" /><tab intro="" title="MSP432E4" type="user" url="../../msp432e4/html/modules.html" visible="yes" /><tab intro="" title="LPC13XX" type="user" url="../../lpc13xx/html/modules.html" visible="yes" /><tab intro="" title="LPC17XX" type="user" url="../../lpc17xx/html/modules.html" visible="yes" /><tab intro="" title="LPC43XX" type="user" url="../../lpc43xx/html/modules.html" visible="yes" /><tab intro="" title="SAM3A" type="user" url="../../sam3a/html/modules.html" visible="yes" /><tab intro="" title="SAM3N" type="user" url="../../sam3n/html/modules.html" visible="yes" /><tab intro="" title="SAM3S" type="user" url="../../sam3s/html/modules.html" visible="yes" /><tab intro="" title="SAM3U" type="user" url="../../sam3u/html/modules.html" visible="yes" /><tab intro="" title="SAM3X" type="user" url="../../sam3x/html/modules.html" visible="yes" /><tab intro="" title="VF6XX" type="user" url="../../vf6xx/html/modules.html" visible="yes" /><tab intro="" title="SWM050" type="user" url="../../swm050/html/modules.html" visible="yes" /><tab title="" type="namespaces" visible="yes">
+      <tab intro="" title="" type="namespaces" visible="yes" />
+      <tab intro="" title="" type="namespacemembers" visible="yes" />
+    </tab>
+    <tab title="" type="classes" visible="yes">
+      <tab intro="" title="" type="classes" visible="yes" />
+      <tab title="" type="classindex" visible="$ALPHABETICAL_INDEX" /> 
+      <tab intro="" title="" type="hierarchy" visible="yes" />
+      <tab intro="" title="" type="classmembers" visible="yes" />
+    </tab>
+    <tab title="" type="files" visible="yes">
+      <tab intro="" title="" type="files" visible="yes" />
+      <tab intro="" title="" type="globals" visible="yes" />
+    </tab>
+    <tab intro="" title="" type="examples" visible="yes" />  
+  </navindex>
+
+  <!-- Layout definition for a class page -->
+  <class>
+    <briefdescription visible="yes" />
+    <includes visible="$SHOW_INCLUDE_FILES" />
+    <inheritancegraph visible="$CLASS_GRAPH" />
+    <collaborationgraph visible="$COLLABORATION_GRAPH" />
+    <allmemberslink visible="yes" />
+    <memberdecl>
+      <nestedclasses title="" visible="yes" />
+      <publictypes title="" />
+      <publicslots title="" />
+      <signals title="" />
+      <publicmethods title="" />
+      <publicstaticmethods title="" />
+      <publicattributes title="" />
+      <publicstaticattributes title="" />
+      <protectedtypes title="" />
+      <protectedslots title="" />
+      <protectedmethods title="" />
+      <protectedstaticmethods title="" />
+      <protectedattributes title="" />
+      <protectedstaticattributes title="" />
+      <packagetypes title="" />
+      <packagemethods title="" />
+      <packagestaticmethods title="" />
+      <packageattributes title="" />
+      <packagestaticattributes title="" />
+      <properties title="" />
+      <events title="" />
+      <privatetypes title="" />
+      <privateslots title="" />
+      <privatemethods title="" />
+      <privatestaticmethods title="" />
+      <privateattributes title="" />
+      <privatestaticattributes title="" />
+      <friends title="" />
+      <related subtitle="" title="" />
+      <membergroups visible="yes" />
+    </memberdecl>
+    <detaileddescription title="" />
+    <memberdef>
+      <typedefs title="" />
+      <enums title="" />
+      <constructors title="" />
+      <functions title="" />
+      <related title="" />
+      <variables title="" />
+      <properties title="" />
+      <events title="" />
+    </memberdef>
+    <usedfiles visible="$SHOW_USED_FILES" />
+    <authorsection visible="yes" />
+  </class>
+
+  <!-- Layout definition for a namespace page -->
+  <namespace>
+    <briefdescription visible="yes" />
+    <memberdecl>
+      <nestednamespaces title="" visible="yes" />
+      <classes title="" visible="yes" />
+      <typedefs title="" />
+      <enums title="" />
+      <functions title="" />
+      <variables title="" />
+      <membergroups visible="yes" />
+    </memberdecl>
+    <detaileddescription title="" />
+    <memberdef>
+      <typedefs title="" />
+      <enums title="" />
+      <functions title="" />
+      <variables title="" />
+    </memberdef>
+    <authorsection visible="yes" />
+  </namespace>
+
+  <!-- Layout definition for a file page -->
+  <file>
+    <briefdescription visible="yes" />
+    <includes visible="$SHOW_INCLUDE_FILES" />
+    <includegraph visible="$INCLUDE_GRAPH" />
+    <includedbygraph visible="$INCLUDED_BY_GRAPH" />
+    <sourcelink visible="yes" />
+    <memberdecl>
+      <classes title="" visible="yes" />
+      <namespaces title="" visible="yes" />
+      <defines title="" />
+      <typedefs title="" />
+      <enums title="" />
+      <functions title="" />
+      <variables title="" />
+      <membergroups visible="yes" />
+    </memberdecl>
+    <detaileddescription title="" />
+    <memberdef>
+      <defines title="" />
+      <typedefs title="" />
+      <enums title="" />
+      <functions title="" />
+      <variables title="" />
+    </memberdef>
+    <authorsection />
+  </file>
+
+  <!-- Layout definition for a group page -->
+  <group>
+    <briefdescription visible="yes" />
+    <groupgraph visible="$GROUP_GRAPHS" />
+    <memberdecl>
+      <classes title="" visible="yes" />
+      <namespaces title="" visible="yes" />
+      <dirs title="" visible="yes" />
+      <nestedgroups title="" visible="yes" />
+      <files title="" visible="yes" />
+      <defines title="" />
+      <typedefs title="" />
+      <enums title="" />
+      <enumvalues title="" />
+      <functions title="" />
+      <variables title="" />
+      <signals title="" />
+      <publicslots title="" />
+      <protectedslots title="" />
+      <privateslots title="" />
+      <events title="" />
+      <properties title="" />
+      <friends title="" />
+      <membergroups visible="yes" />
+    </memberdecl>
+    <detaileddescription title="" />
+    <memberdef>
+      <pagedocs />
+      <inlineclasses title="" />
+      <defines title="" />
+      <typedefs title="" />
+      <enums title="" />
+      <enumvalues title="" />
+      <functions title="" />
+      <variables title="" />
+      <signals title="" />
+      <publicslots title="" />
+      <protectedslots title="" />
+      <privateslots title="" />
+      <events title="" />
+      <properties title="" />
+      <friends title="" />
+    </memberdef>
+    <authorsection visible="yes" />
+  </group>
+
+  <!-- Layout definition for a directory page -->
+  <directory>
+    <briefdescription visible="yes" />
+    <directorygraph visible="yes" />
+    <memberdecl>
+      <dirs visible="yes" />
+      <files visible="yes" />
+    </memberdecl>
+    <detaileddescription title="" />
+  </directory>
+</doxygenlayout>

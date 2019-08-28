@@ -1,0 +1,4 @@
+<map id="Flash Registers" name="Flash Registers">
+<area shape="rect" id="node2" href="$group__flash__acr__values.html" title="Access Control register values. " alt="" coords="331,5,473,32"/>
+<area shape="rect" id="node3" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32F2xx FLASH Memory. " alt="" coords="5,5,120,32"/>
+</map>

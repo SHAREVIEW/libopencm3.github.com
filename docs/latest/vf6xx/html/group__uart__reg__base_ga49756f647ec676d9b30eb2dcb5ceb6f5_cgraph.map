@@ -1,0 +1,4 @@
+<map id="uart_send_blocking" name="uart_send_blocking">
+<area shape="rect" id="node2" href="$group__VF6xx__uart.html#ga139537171562bc756bb4862863d05874" title="UART Send a Data Word. " alt="" coords="223,5,302,32"/>
+<area shape="rect" id="node3" href="$group__VF6xx__uart.html#ga9546f62d7bb1695a34748ae418d2ed7f" title="UART Wait for Transmit Data Buffer Empty. " alt="" coords="188,56,337,83"/>
+</map>

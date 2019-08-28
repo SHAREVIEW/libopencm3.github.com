@@ -1,0 +1,9 @@
+<map id="LPTIM Defines" name="LPTIM Defines">
+<area shape="rect" id="node1" href="$group__lptim__cfgr.html" title="LPTIM_CFGR Configuration\l Register" alt="" coords="353,5,540,47"/>
+<area shape="rect" id="node3" href="$group__lptim__isr.html" title="LPTIM_ISR Interrupt\l and Status Register" alt="" coords="375,71,518,112"/>
+<area shape="rect" id="node4" href="$group__lptim__cr.html" title="LPTIM_CR Control Register" alt="" coords="353,137,540,163"/>
+<area shape="rect" id="node5" href="$group__lptim__reg__base.html" title="Low Power Timer register\l base addresses" alt="" coords="361,188,532,229"/>
+<area shape="rect" id="node6" href="$group__lptim__ier.html" title="LPTIM_IER Interrupt\l Enable Register" alt="" coords="375,253,518,295"/>
+<area shape="rect" id="node7" href="$group__lptim__icr.html" title="LPTIM_ICR Interrupt\l Clear Register" alt="" coords="375,319,519,360"/>
+<area shape="rect" id="node8" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series. " alt="" coords="5,166,147,193"/>
+</map>

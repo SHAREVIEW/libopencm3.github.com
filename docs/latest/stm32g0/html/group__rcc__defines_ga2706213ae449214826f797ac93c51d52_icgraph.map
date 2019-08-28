@@ -1,0 +1,4 @@
+<map id="rcc_is_osc_ready" name="rcc_is_osc_ready">
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga97a14bcd681acbfdd75141e0bd65f7c7" title="Setup sysclock with desired source (HSE/HSI/PLL/LSE/LSI). " alt="" coords="385,5,503,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready. " alt="" coords="177,31,337,57"/>
+</map>

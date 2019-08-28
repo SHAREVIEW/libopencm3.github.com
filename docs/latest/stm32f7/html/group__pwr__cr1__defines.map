@@ -1,0 +1,6 @@
+<map id="PWR_CR1 values" name="PWR_CR1 values">
+<area shape="rect" id="node1" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32F7xx Power Control " alt="" coords="5,78,108,105"/>
+<area shape="rect" id="node2" href="$group__pwr__vos.html" title="Regulator voltage scaling\l output selection" alt="" coords="335,5,504,47"/>
+<area shape="rect" id="node4" href="$group__pwr__uden.html" title="Under&#45;drive enable\l in stop mode" alt="" coords="354,71,485,112"/>
+<area shape="rect" id="node5" href="$group__pwr__pls.html" title="PVD level selection" alt="" coords="351,137,488,163"/>
+</map>

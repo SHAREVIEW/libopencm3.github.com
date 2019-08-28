@@ -1,0 +1,4 @@
+<map id="LPC17xx" name="LPC17xx">
+<area shape="rect" id="node1" href="$group__pwr-file.html" title="libopencm3 LPC17xx Power Control " alt="" coords="129,5,184,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 LPC17xx General Purpose I/O " alt="" coords="129,56,184,83"/>
+</map>

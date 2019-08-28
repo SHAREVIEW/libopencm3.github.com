@@ -1,0 +1,5 @@
+<map id="CRC Defines" name="CRC Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series. " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node3" href="$group__crc__cr__values.html" title="CRC_CR values" alt="" coords="345,5,467,32"/>
+<area shape="rect" id="node4" href="$group__crc__registers.html" title="CRC Registers" alt="" coords="350,56,462,83"/>
+</map>

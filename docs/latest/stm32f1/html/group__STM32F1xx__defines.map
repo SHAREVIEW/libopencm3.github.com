@@ -1,0 +1,18 @@
+<map id="STM32F1xx Defines" name="STM32F1xx Defines">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F1xx Reset and Clock Control " alt="" coords="204,5,305,32"/>
+<area shape="rect" id="node2" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32F1xx PWR Control " alt="" coords="203,56,306,83"/>
+<area shape="rect" id="node4" href="$group__crc__defines.html" title="libopencm3 Defined Constants and Types for the STM32F1xx CRC Generator &#160;" alt="" coords="204,107,305,133"/>
+<area shape="rect" id="node5" href="$group__dac__defines.html" title="Defined Constants and Types for the STM32F1xx DAC " alt="" coords="205,157,305,184"/>
+<area shape="rect" id="node6" href="$group__i2c__defines.html" title="Defined Constants and Types for the STM32F1xx I2C &#160;" alt="" coords="209,208,301,235"/>
+<area shape="rect" id="node7" href="$group__exti__defines.html" title="Defined Constants and Types for the STM32F1xx External Interrupts &#160;" alt="" coords="204,259,305,285"/>
+<area shape="rect" id="node8" href="$group__iwdg__defines.html" title="Defined Constants and Types for the STM32F1xx Independent Watchdog Timer " alt="" coords="201,309,309,336"/>
+<area shape="rect" id="node9" href="$group__spi__defines.html" title="Defined Constants and Types for the STM32F1xx SPI " alt="" coords="208,360,301,387"/>
+<area shape="rect" id="node10" href="$group__gpio__defines.html" title="Defined Constants and Types for the STM32F1xx General Purpose I/O " alt="" coords="203,411,307,437"/>
+<area shape="rect" id="node11" href="$group__timer__defines.html" title="libopencm3 Defined Constants and Types for the STM32F1xx Timers " alt="" coords="203,461,307,488"/>
+<area shape="rect" id="node12" href="$group__bkp__defines.html" title="Defined Constants and Types for the Backup Registers " alt="" coords="205,512,304,539"/>
+<area shape="rect" id="node13" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32F1xx Analog to Digital Converters " alt="" coords="205,563,305,589"/>
+<area shape="rect" id="node14" href="$group__usart__defines.html" title="Defined Constants and Types for the STM32F1xx USART " alt="" coords="196,613,313,640"/>
+<area shape="rect" id="node15" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32F1xx Real Time Clock " alt="" coords="205,664,304,691"/>
+<area shape="rect" id="node16" href="$group__dma__defines.html" title="Defined Constants and Types for the STM32F1xx DMA Controller. " alt="" coords="204,715,305,741"/>
+<area shape="rect" id="node17" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32F1xx FLASH Memory. " alt="" coords="197,765,312,792"/>
+</map>

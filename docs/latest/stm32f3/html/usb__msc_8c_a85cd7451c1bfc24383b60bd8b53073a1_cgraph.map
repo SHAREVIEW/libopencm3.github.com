@@ -1,0 +1,5 @@
+<map id="scsi_inquiry" name="scsi_inquiry">
+<area shape="rect" id="node2" href="$usb__msc_8c.html#ac5b311ee22d1d86e3bf5d93cd23d78d7" title="get_cbw_buf" alt="" coords="169,5,265,32"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#acea2b1d4fda2777c7729104dfb3109ba" title="set_sbc_status_good" alt="" coords="144,56,291,83"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a285558a874e454328ae7cba96306b253" title="set_sbc_status" alt="" coords="339,56,449,83"/>
+</map>

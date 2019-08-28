@@ -1,0 +1,6 @@
+<map id="usb_disable_interrupts" name="usb_disable_interrupts">
+<area shape="rect" id="node2" href="$group__usb__drivers__file.html#ga3bc8dd33500621a1e900c78a42dcaf27" title="_usbd_reset" alt="" coords="229,5,322,32"/>
+<area shape="rect" id="node4" href="$group__systemcontrol__defines.html#ga82ac341aee840ff3b2fc15d79de016c9" title="Enable the clock source for the peripheral. " alt="" coords="205,56,345,83"/>
+<area shape="rect" id="node5" href="$group__rcc__defines.html#gae31973474f6d00125a57784e84230c86" title="Power up the USB PLL. " alt="" coords="221,107,330,133"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#gaadc222d45c63e01811952f8478ac7943" title="Setup an endpoint. " alt="" coords="393,5,504,32"/>
+</map>

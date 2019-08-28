@@ -1,0 +1,5 @@
+<map id="FLASH Defines" name="FLASH Defines">
+<area shape="rect" id="node1" href="$group__flash__latency.html" title="FLASH Wait States" alt="" coords="368,5,507,32"/>
+<area shape="rect" id="node2" href="$group__STM32F0xx__defines.html" title="Defined Constants and Types for the STM32F0xx series. " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node3" href="$group__flash__options.html" title="Option Byte Addresses" alt="" coords="359,56,516,83"/>
+</map>

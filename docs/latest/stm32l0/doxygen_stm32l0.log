@@ -1,0 +1,32 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:210: warning: unable to resolve reference to `adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:176: warning: argument 'trigger' of command @param is not found in the argument list of lptimer_enable_trigger(uint32_t lptimer_peripheral, uint32_t trigen)
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/lptimer_common_all.h:276: warning: The following parameters of lptimer_enable_trigger(uint32_t lptimer_peripheral, uint32_t trigen) are not documented:
+  parameter 'trigen'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:188: warning: argument 'trigger' of command @param is not found in the argument list of lptimer_select_trigger_source(uint32_t lptimer_peripheral, uint32_t trigger_source)
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/lptimer_common_all.h:277: warning: The following parameters of lptimer_select_trigger_source(uint32_t lptimer_peripheral, uint32_t trigger_source) are not documented:
+  parameter 'trigger_source'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:240: warning: unable to resolve reference to `rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:405: warning: unable to resolve reference to `rcc_ccpipr_lptim1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:417: warning: unable to resolve reference to `rcc_ccpipr_lpuart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:394: warning: unable to resolve reference to `rcc_icscr_msirange' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:428: warning: unable to resolve reference to `rcc_ccpipr_usart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:439: warning: unable to resolve reference to `rcc_ccpipr_usartxsel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/cm3/nvic.c:138: warning: unable to resolve reference to `scb_set_priority_grouping' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:240: warning: unable to resolve reference to `rcc_backupdomain_reset' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:405: warning: unable to resolve reference to `rcc_ccpipr_lptim1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:417: warning: unable to resolve reference to `rcc_ccpipr_lpuart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:394: warning: unable to resolve reference to `rcc_icscr_msirange' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:428: warning: unable to resolve reference to `rcc_ccpipr_usart1sel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l0/rcc.c:439: warning: unable to resolve reference to `rcc_ccpipr_usartxsel' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v2.c:210: warning: unable to resolve reference to `adc_api_res' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:176: warning: argument 'trigger' of command @param is not found in the argument list of lptimer_enable_trigger(uint32_t lptimer_peripheral, uint32_t trigen)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:181: warning: The following parameters of lptimer_enable_trigger(uint32_t lptimer_peripheral, uint32_t trigen) are not documented:
+  parameter 'trigen'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:188: warning: argument 'trigger' of command @param is not found in the argument list of lptimer_select_trigger_source(uint32_t lptimer_peripheral, uint32_t trigger_source)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/lptimer_common_all.c:195: warning: The following parameters of lptimer_select_trigger_source(uint32_t lptimer_peripheral, uint32_t trigger_source) are not documented:
+  parameter 'trigger_source'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:202: warning: unable to resolve reference to `usart_isr' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:296: warning: unable to resolve reference to `usart_sr_flags' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:154: warning: unable to resolve reference to `usart_isr_rtof' for \ref command

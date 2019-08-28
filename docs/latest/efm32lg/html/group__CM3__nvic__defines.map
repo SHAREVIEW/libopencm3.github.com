@@ -1,0 +1,6 @@
+<map id="Cortex&#45;M NVIC Defines" name="Cortex&#45;M NVIC Defines">
+<area shape="rect" id="node1" href="$group__nvic__sysint.html" title="IRQ numbers &#45;3 and &#45;6 to &#45;9 are reserved. " alt="" coords="363,5,539,47"/>
+<area shape="rect" id="node2" href="$group__CM3__defines.html" title="Defined Constants and Types for Cortex M3 core features. " alt="" coords="5,86,104,113"/>
+<area shape="rect" id="node4" href="$group__CM3__nvic__defines__irqs.html" title="User interrupts for\l EFM32 Leopard Gecko\l series" alt="" coords="371,71,531,127"/>
+<area shape="rect" id="node5" href="$group__nvic__registers.html" title="NVIC Registers" alt="" coords="393,151,508,178"/>
+</map>

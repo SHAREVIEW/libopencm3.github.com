@@ -1,0 +1,117 @@
+var NAVTREE =
+[
+  [ "libopencm3", "index.html", [
+    [ "libopencm3 Core CM3", "index.html", null ],
+    [ "libopencm3 License", "lgpl_license.html", null ],
+    [ "STM32F1", "libopencm3.html", null ],
+    [ "Deprecated List", "deprecated.html", null ],
+    [ "Back to Top", "../../html/index.html", null ],
+    [ "STM32F0", "../../stm32f0/html/modules.html", null ],
+    [ "STM32F1", "modules.html", "modules" ],
+    [ "STM32F2", "../../stm32f2/html/modules.html", null ],
+    [ "STM32F3", "../../stm32f3/html/modules.html", null ],
+    [ "STM32F4", "../../stm32f4/html/modules.html", null ],
+    [ "STM32F7", "../../stm32f7/html/modules.html", null ],
+    [ "STM32L0", "../../stm32l0/html/modules.html", null ],
+    [ "STM32L1", "../../stm32l1/html/modules.html", null ],
+    [ "STM32L4", "../../stm32l4/html/modules.html", null ],
+    [ "STM32G0", "../../stm32g0/html/modules.html", null ],
+    [ "GD32F1X0", "../../gd32f1x0/html/modules.html", null ],
+    [ "EFM32G", "../../efm32g/html/modules.html", null ],
+    [ "EFM32GG", "../../efm32gg/html/modules.html", null ],
+    [ "EFM32HG", "../../efm32hg/html/modules.html", null ],
+    [ "EFM32LG", "../../efm32lg/html/modules.html", null ],
+    [ "EFM32TG", "../../efm32tg/html/modules.html", null ],
+    [ "EFM32WG", "../../efm32wg/html/modules.html", null ],
+    [ "EFM32EZR32WG", "../../efm32ezr32wg/html/modules.html", null ],
+    [ "LM3S", "../../lm3s/html/modules.html", null ],
+    [ "LM4F", "../../lm4f/html/modules.html", null ],
+    [ "MSP432E4", "../../msp432e4/html/modules.html", null ],
+    [ "LPC13XX", "../../lpc13xx/html/modules.html", null ],
+    [ "LPC17XX", "../../lpc17xx/html/modules.html", null ],
+    [ "LPC43XX", "../../lpc43xx/html/modules.html", null ],
+    [ "SAM3A", "../../sam3a/html/modules.html", null ],
+    [ "SAM3N", "../../sam3n/html/modules.html", null ],
+    [ "SAM3S", "../../sam3s/html/modules.html", null ],
+    [ "SAM3U", "../../sam3u/html/modules.html", null ],
+    [ "SAM3X", "../../sam3x/html/modules.html", null ],
+    [ "VF6XX", "../../vf6xx/html/modules.html", null ],
+    [ "SWM050", "../../swm050/html/modules.html", null ],
+    [ "Data Structures", "annotated.html", [
+      [ "Data Structures", "annotated.html", "annotated_dup" ],
+      [ "Data Structure Index", "classes.html", null ],
+      [ "Data Fields", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", null, [
+      [ "File List", "files.html", "files" ],
+      [ "Globals", "globals.html", [
+        [ "All", "globals.html", "globals_dup" ],
+        [ "Functions", "globals_func.html", "globals_func" ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", "globals_eval" ],
+        [ "Macros", "globals_defs.html", "globals_defs" ]
+      ] ]
+    ] ]
+  ] ]
+];
+
+var NAVTREEINDEX =
+[
+"../../efm32ezr32wg/html/modules.html",
+"globals_defs_w.html",
+"group__CM3__mpu__rnr.html",
+"group__CM3__nvic__isrdecls__STM32F1.html#ga40747dba0f93159403e51109a87575fd",
+"group__CM3__systick__defines.html#ga0a6a69a143a4257ed517033163524886",
+"group__adc__defines.html#ga37a1fb30f9bcac721cb6af804979955c",
+"group__adc__defines.html#gabd8f277084841e1dafdf424875028bbf",
+"group__adc__sample__rg.html#ga2751411de4d67d9e7bf413f90d5e0b55",
+"group__afio__remap2.html#gae3d2217d99473d1bb6502425467a594d",
+"group__can__defines.html#ga734fdac341e5d80df44c97c15d79fe09",
+"group__cm3__scb__aicr__values.html#ga74ce167fa84d1dc80c497279e981f560",
+"group__cm__itm.html#ga3669715b5b18b1144dd0f69eb220e743",
+"group__cm__scs.html#ga387bb45a990aa3ff42a4e2e36c2960ed",
+"group__dac__defines.html#ga8fc160ccb7894f884d608ff9add47c52",
+"group__dma__ch__memwidth.html#ga37688ed864b6cb9b5a38e56357112504",
+"group__dma__defines.html#ga8ee1947aef188f437f37d3ff444f8646",
+"group__ethernet__mac__stm32fxx7__defines.html#ga093926b5f77f03e666389e0cc476f430",
+"group__ethernet__mac__stm32fxx7__defines.html#ga5274bb931a3e411cd36807e94ac7beb5",
+"group__ethernet__mac__stm32fxx7__defines.html#ga91e71c4054613222a8610bde0b191d00",
+"group__ethernet__mac__stm32fxx7__defines.html#gad9dff0698db41111c7c99cb5973003d4",
+"group__ethernet__phy__defines.html#gga9fd5e7e5632242cb7c357071dd3d69c2a84cab5b97d7bc51967e2ffa9e9a5422d",
+"group__ethernet__phy__ksz80x1__defines.html#gaeaca95b054902b1554ebc1980a5b6990",
+"group__flash__defines.html#gab2b0fabb1eaf6de3228948793bca2aeb",
+"group__gpio__defines.html#ga20651cdb56a4d0ba7debe2b9d45a5f75",
+"group__gpio__defines.html#ga70163b49e0a403672e70f2351611c5ca",
+"group__gpio__defines.html#gac2c337c6f9cf564dfdefb5ab2117a158",
+"group__gpio__file.html#ga7fb65a68e4fc7175660f396395f6b44e",
+"group__i2c__defines.html#ga770a4f23cdb45e344a789e32202c4cab",
+"group__iwdg__key.html#ga4fd7ddcf46d132447df82217fce85fed",
+"group__rcc__apb1enr__en.html#gad447a7fe0f4949f283ea5617eb0535f7",
+"group__rcc__cfgr__pmf.html#gafb24cd58beb5fda1eb5b91a720a28eb2",
+"group__rcc__defines.html#ga93f0715a42904d8c70bc7d1c862cf89f",
+"group__rcc__defines.html#gga4bd6185a4613aaa3ee5447c3d86ba718a9fed32b2a96d4647ea73ba7926f1121e",
+"group__rcc__file.html#gad434015520b42043657d7478f8308c37",
+"group__spi__defines.html#ga3cc21765f27e44275d19453b643fc805",
+"group__spi__file.html#ga9f834ea1e68b2c23a4b0866f96f38578",
+"group__tim__x__cr1__dir.html#gae4c9c6a9c182671b2a95850d8d0c91fe",
+"group__timer__defines.html#ga36a6aa95eb3a015678eda5153397170a",
+"group__timer__defines.html#ga7095d4d700bc871b3048e20728f3b746",
+"group__timer__defines.html#gaa64b1b36907a6e14fcc428283bd257f8",
+"group__timer__defines.html#gae02852131845616785999c731a3cae10",
+"group__timer__file.html#ga3515ea09b71ac6aad4df293e4d15c540",
+"group__usart__defines.html#ga5364eb42831db14fa372ec876faf7b97",
+"group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097",
+"group__usb__driver__defines.html#gac5a88293ab05d6003fb4f69b1789b672",
+"group__usb__type__defines.html#gadf113fe0d44d34bd71d49e7baf39d9d3",
+"otg__common_8h.html#aa4580b1342f47f3d45aa302fb931886a",
+"st__usbfs__v1_8c.html#a83ece38ce632189e58f2543375eb4363",
+"sync_8c.html#a48735f2cc888fa55f57192e25a5b244f"
+];
+
+var SYNCONMSG = 'click to disable panel synchronisation';
+var SYNCOFFMSG = 'click to enable panel synchronisation';

@@ -1,0 +1,19 @@
+<map id="GPIO Defines" name="GPIO Defines">
+<area shape="rect" id="node1" href="$group__gpio__pin__id.html" title="GPIO Pin Identifiers" alt="" coords="384,5,523,32"/>
+<area shape="rect" id="node2" href="$group__afio__remap__can1.html" title="Alternate Function\l Remap Controls for CAN 1" alt="" coords="361,57,545,98"/>
+<area shape="rect" id="node3" href="$group__afio__remap__cld.html" title="Line Devices only. " alt="" coords="383,123,523,179"/>
+<area shape="rect" id="node4" href="$group__STM32F1xx__defines.html" title="Defined Constants and Types for the STM32F1xx series. " alt="" coords="5,447,148,473"/>
+<area shape="rect" id="node5" href="$group__gpio__mode.html" title="GPIO Pin Mode" alt="" coords="396,203,511,229"/>
+<area shape="rect" id="node6" href="$group__gpio__cnf.html" title="If mode specifies input, configuration can be. " alt="" coords="374,253,533,280"/>
+<area shape="rect" id="node7" href="$group__gpio__port__id.html" title="GPIO Port IDs" alt="" coords="399,304,507,331"/>
+<area shape="rect" id="node8" href="$group__afio__evcr__pin.html" title="EVENTOUT Pin selection" alt="" coords="366,355,541,381"/>
+<area shape="rect" id="node9" href="$group__afio__exti.html" title="Alternate Function\l EXTI pin number" alt="" coords="389,406,517,447"/>
+<area shape="rect" id="node11" href="$group__afio__remap2.html" title="Alternate Function\l Remap Controls Secondary Set" alt="" coords="348,471,559,513"/>
+<area shape="rect" id="node12" href="$group__afio__evcr__port.html" title="EVENTOUT Port selection" alt="" coords="364,537,543,564"/>
+<area shape="rect" id="node13" href="$group__afio__remap.html" title="Alternate Function\l Remap Controls" alt="" coords="389,589,517,630"/>
+<area shape="rect" id="node14" href="$group__afio__remap__usart3.html" title="Alternate Function\l Remap Controls for\l USART 3" alt="" coords="383,655,523,711"/>
+<area shape="rect" id="node15" href="$group__afio__swj__disable.html" title="Serial Wire JTAG disables" alt="" coords="365,735,541,761"/>
+<area shape="rect" id="node16" href="$group__afio__remap__tim1.html" title="Alternate Function\l Remap Controls for\l Timer 1" alt="" coords="383,785,523,841"/>
+<area shape="rect" id="node17" href="$group__afio__remap__tim2.html" title="Alternate Function\l Remap Controls for\l Timer 2" alt="" coords="383,865,523,921"/>
+<area shape="rect" id="node18" href="$group__afio__remap__tim3.html" title="Alternate Function\l Remap Controls for\l Timer 3" alt="" coords="383,945,523,1001"/>
+</map>

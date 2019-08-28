@@ -1,0 +1,5 @@
+<map id="flash_wait_for_last_operation" name="flash_wait_for_last_operation">
+<area shape="rect" id="node2" href="$group__flash__file.html#gaf1804e22fb8a901f3a5f85535aa1ff7b" title="flash_erase_all_pages" alt="" coords="192,5,343,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga0aee649731aaa8c1316c12f5bea7c31b" title="flash_erase_page" alt="" coords="205,56,329,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="flash_program_half_word" alt="" coords="184,107,351,133"/>
+</map>

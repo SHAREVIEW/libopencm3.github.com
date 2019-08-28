@@ -1,0 +1,3 @@
+<map id="i2c_set_read_transfer_dir" name="i2c_set_read_transfer_dir">
+<area shape="rect" id="node2" href="$group__i2c__file.html#ga34f36613cae4c0fd7f5d7d7b2719d57d" title="Run a write/read transaction to a given 7bit i2c address If both write &amp; read are provided..." alt="" coords="221,5,319,32"/>
+</map>

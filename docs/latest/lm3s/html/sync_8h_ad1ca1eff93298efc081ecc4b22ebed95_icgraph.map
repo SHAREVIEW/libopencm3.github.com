@@ -1,0 +1,6 @@
+<map id="__dmb" name="__dmb">
+<area shape="rect" id="node2" href="$sync_8c.html#a1c9a1e7ec18d99b4731a2e24628ccf25" title="mutex_trylock" alt="" coords="143,5,247,32"/>
+<area shape="rect" id="node4" href="$sync_8c.html#ae11e971acf52cb10a0e471c291cd9505" title="mutex_unlock" alt="" coords="143,56,246,83"/>
+<area shape="rect" id="node5" href="$rcc_8c.html#ac553e707763c79b30a0a716470e96986" title="rcc_clock_setup_in\l_xtal_8mhz_out_50mhz" alt="" coords="115,107,275,149"/>
+<area shape="rect" id="node3" href="$sync_8c.html#a3582a040ff9bb0cfd05bdd660f1f0d4f" title="mutex_lock" alt="" coords="323,5,412,32"/>
+</map>

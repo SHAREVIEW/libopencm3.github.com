@@ -1,0 +1,17 @@
+<map id="USART Defines" name="USART Defines">
+<area shape="rect" id="node1" href="$group__usart__cr1__mode.html" title="USART Tx/Rx Mode Selection" alt="" coords="360,5,563,32"/>
+<area shape="rect" id="node2" href="$group__usart__cr2__stopbits.html" title="USART Stop Bit Selection" alt="" coords="373,56,550,83"/>
+<area shape="rect" id="node3" href="$group__usart__cr3__flowcontrol.html" title="USART Hardware Flow\l Control Selection" alt="" coords="381,107,541,149"/>
+<area shape="rect" id="node4" href="$group__usart__registers.html" title="USART Registers" alt="" coords="397,173,525,200"/>
+<area shape="rect" id="node5" href="$group__usart__rtor__values.html" title="USART_RTOR Values" alt="" coords="383,224,540,251"/>
+<area shape="rect" id="node6" href="$group__usart__rqr__values.html" title="USART_RQR Values" alt="" coords="387,275,536,301"/>
+<area shape="rect" id="node7" href="$group__usart__isr__values.html" title="USART_ISR Values" alt="" coords="390,325,533,352"/>
+<area shape="rect" id="node8" href="$group__usart__dr__values.html" title="USART_RDR/TDR Values" alt="" coords="371,376,552,403"/>
+<area shape="rect" id="node9" href="$group__usart__icr__values.html" title="USART_ICR Values" alt="" coords="390,427,533,453"/>
+<area shape="rect" id="node10" href="$group__usart__cr2__values.html" title="USART_CR2 Values" alt="" coords="388,477,535,504"/>
+<area shape="rect" id="node11" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series. " alt="" coords="5,351,147,377"/>
+<area shape="rect" id="node12" href="$group__usart__cr1__values.html" title="USART_CR1 Values" alt="" coords="388,528,535,555"/>
+<area shape="rect" id="node13" href="$group__usart__cr1__parity.html" title="USART Parity Selection" alt="" coords="379,579,543,605"/>
+<area shape="rect" id="node14" href="$group__usart__gtpr__values.html" title="USART_GTPR Values" alt="" coords="383,629,539,656"/>
+<area shape="rect" id="node15" href="$group__usart__cr3__values.html" title="USART_CR3 Values" alt="" coords="388,680,535,707"/>
+</map>

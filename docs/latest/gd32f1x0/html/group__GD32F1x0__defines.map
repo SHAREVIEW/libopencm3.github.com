@@ -1,0 +1,5 @@
+<map id="GD32F1x0xx Defines" name="GD32F1x0xx Defines">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the GD32F1x0 Reset and Clock Control " alt="" coords="208,5,309,32"/>
+<area shape="rect" id="node3" href="$group__gpio__defines.html" title="Defined Constants and Types for the GD32F1x0 General Purpose I/O " alt="" coords="207,56,311,83"/>
+<area shape="rect" id="node4" href="$group__flash__defines.html" title="Defined Constants and Types for the GD32F1x0 Flash memory " alt="" coords="201,107,316,133"/>
+</map>

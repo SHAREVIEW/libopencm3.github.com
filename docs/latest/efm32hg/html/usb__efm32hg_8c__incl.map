@@ -1,0 +1,10 @@
+<map id="usb_efm32hg.c" name="usb_efm32hg.c">
+<area shape="rect" id="node3" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="817,259,1000,285"/>
+<area shape="rect" id="node6" href="$efm32_2memorymap_8h.html" title="Dispatcher for the base address definitions, depending on the particular Gecko family. " alt="" coords="275,87,489,114"/>
+<area shape="rect" id="node7" href="$cmu_8h.html" title="libopencm3/efm32/cmu.h" alt="" coords="514,87,682,114"/>
+<area shape="rect" id="node8" href="$usb_8h.html" title="libopencm3/efm32/usb.h" alt="" coords="707,87,871,114"/>
+<area shape="rect" id="node9" href="$usbd_8h.html" title="libopencm3/usb/usbd.h" alt="" coords="95,87,251,114"/>
+<area shape="rect" id="node11" href="$otg__fs_8h.html" title="libopencm3/usb/dwc\l/otg_fs.h" alt="" coords="946,80,1087,121"/>
+<area shape="rect" id="node10" href="$usbstd_8h.html" title="libopencm3/usb/usbstd.h" alt="" coords="696,177,863,203"/>
+<area shape="rect" id="node12" href="$otg__common_8h.html" title="libopencm3/usb/dwc\l/otg_common.h" alt="" coords="997,169,1138,211"/>
+</map>

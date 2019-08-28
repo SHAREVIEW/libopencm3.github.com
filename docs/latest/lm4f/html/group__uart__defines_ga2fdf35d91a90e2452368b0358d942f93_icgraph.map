@@ -1,0 +1,5 @@
+<map id="uart_disable_interrupts" name="uart_disable_interrupts">
+<area shape="rect" id="node2" href="$group__uart__irq.html#ga6c46b4228c1da4010f8e8d5a66bde0c0" title="Disable the UART Receive Interrupt. " alt="" coords="207,5,371,32"/>
+<area shape="rect" id="node3" href="$group__uart__fifo.html#ga840603de8127f2b63abdd1f5d113f938" title="Determine if the RX fifo is empty. " alt="" coords="419,56,565,83"/>
+<area shape="rect" id="node4" href="$group__uart__irq.html#ga2d6559da0d940412e88374af5fe8a5dc" title="Disable the UART Transmit Interrupt. " alt="" coords="207,107,371,133"/>
+</map>

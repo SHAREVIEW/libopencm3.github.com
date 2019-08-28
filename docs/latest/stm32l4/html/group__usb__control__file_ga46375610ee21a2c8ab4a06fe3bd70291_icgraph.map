@@ -1,0 +1,6 @@
+<map id="usb_control_send_chunk" name="usb_control_send_chunk">
+<area shape="rect" id="node2" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title="_usbd_control_in" alt="" coords="439,5,559,32"/>
+<area shape="rect" id="node4" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title="usb_control_setup_read" alt="" coords="220,56,380,83"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga3f1854d80f9d88cdb206a96e5f2b703e" title="Main initialization entry point. " alt="" coords="619,31,693,57"/>
+<area shape="rect" id="node5" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title="_usbd_control_setup" alt="" coords="428,56,571,83"/>
+</map>

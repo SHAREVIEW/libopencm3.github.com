@@ -1,0 +1,4 @@
+<map id="lcd_set_refresh_frequency" name="lcd_set_refresh_frequency">
+<area shape="rect" id="node2" href="$group__lcd__defines.html#ga20112b12e7b47a26059506024020153a" title="lcd_set_divider" alt="" coords="235,5,345,32"/>
+<area shape="rect" id="node3" href="$group__lcd__defines.html#ga14bcc0da9f44270ef20800cf4567b5ca" title="lcd_set_prescaler" alt="" coords="228,56,352,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="usart_send_blocking" name="usart_send_blocking">
+<area shape="rect" id="node2" href="$usart_8c.html#adaa57ce78cbc988f9a066e3987adcc2b" title="usart_is_send_ready" alt="" coords="195,5,337,32"/>
+<area shape="rect" id="node3" href="$usart_8c.html#a26d0bd4c0eab8e4d32ca13df9526722d" title="usart_send" alt="" coords="223,56,309,83"/>
+</map>

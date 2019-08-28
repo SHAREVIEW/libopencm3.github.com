@@ -1,0 +1,15 @@
+<map id="i2c_transfer7" name="i2c_transfer7">
+<area shape="rect" id="node2" href="$group__i2c__file.html#ga8ee39542b8b27e6b298a44d6493546a2" title="i2c_disable_autoend" alt="" coords="167,5,307,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#gaa30db58b7bec562d300b3a185bff5cee" title="i2c_enable_autoend" alt="" coords="168,56,305,83"/>
+<area shape="rect" id="node4" href="$group__i2c__file.html#gab0fae615ab83fcd0dac9885fd04c4731" title="I2C Get Data. " alt="" coords="189,107,285,133"/>
+<area shape="rect" id="node5" href="$group__i2c__file.html#gafb594fe17ee2af9ff510edb15a29ef6c" title="i2c_nack" alt="" coords="199,157,274,184"/>
+<area shape="rect" id="node6" href="$group__i2c__file.html#ga758469ebc6b32709c7098a767d583280" title="i2c_received_data" alt="" coords="173,208,300,235"/>
+<area shape="rect" id="node7" href="$group__i2c__file.html#gaad83fb76f31941e9d0e1083d8e4ea6f0" title="I2C Send Data. " alt="" coords="183,259,290,285"/>
+<area shape="rect" id="node8" href="$group__i2c__file.html#ga5c21ca1eb1791661f78247cdccf82734" title="I2C Send Start Condition. " alt="" coords="183,309,290,336"/>
+<area shape="rect" id="node9" href="$group__i2c__file.html#ga16796d9c15e8f462c11cb08678ef9804" title="i2c_set_7bit_address" alt="" coords="164,360,309,387"/>
+<area shape="rect" id="node10" href="$group__i2c__file.html#ga68a6760bfcd203f922669c4f64009fb6" title="i2c_set_bytes_to_transfer" alt="" coords="151,411,323,437"/>
+<area shape="rect" id="node11" href="$group__i2c__file.html#gaabc1f0734a62aff08f8bf50f95fde1f3" title="i2c_set_read_transfer_dir" alt="" coords="153,461,321,488"/>
+<area shape="rect" id="node12" href="$group__i2c__file.html#ga7188b92beaaca3762937609b51041379" title="i2c_set_write_transfer_dir" alt="" coords="151,512,322,539"/>
+<area shape="rect" id="node13" href="$group__i2c__file.html#gaecba014143b8df9ced66f9324f91388c" title="i2c_transfer_complete" alt="" coords="161,563,312,589"/>
+<area shape="rect" id="node14" href="$group__i2c__file.html#ga9e3bab47c46c13d1c3e9f40102e57a35" title="i2c_transmit_int_status" alt="" coords="158,613,315,640"/>
+</map>

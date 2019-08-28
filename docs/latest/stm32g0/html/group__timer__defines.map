@@ -1,0 +1,16 @@
+<map id="Timer Defines" name="Timer Defines">
+<area shape="rect" id="node1" href="$group__tim__sms.html" title="TIMx_SMCR SMS Slave\l mode selection" alt="" coords="371,5,540,47"/>
+<area shape="rect" id="node2" href="$group__tim__mastermode.html" title="TIMx_CR2 MMS[6:4]:\l Master Mode Selection" alt="" coords="375,71,535,112"/>
+<area shape="rect" id="node3" href="$group__tim__lock.html" title="TIM_BDTR_LOCK Timer\l Lock Values" alt="" coords="371,136,540,177"/>
+<area shape="rect" id="node4" href="$group__tim__irq__enable.html" title="TIMx_DIER Timer DMA\l and Interrupt Enable\l Values" alt="" coords="374,202,537,258"/>
+<area shape="rect" id="node5" href="$group__tim__or1__ocref__clr.html" title="TIM_OR1_OCREF_CLR Source\l Selection" alt="" coords="349,283,561,324"/>
+<area shape="rect" id="node6" href="$group__tim__ts.html" title="TIMx_SMCR TS Trigger\l selection" alt="" coords="373,348,537,389"/>
+<area shape="rect" id="node7" href="$group__tim__event__gen.html" title="TIMx_EGR Timer Event\l Generator Values" alt="" coords="374,413,537,455"/>
+<area shape="rect" id="node8" href="$group__tim__x__cr1__cdr.html" title="TIMx_CR1 CKD[1:0] Clock\l Division Ratio" alt="" coords="364,479,547,520"/>
+<area shape="rect" id="node9" href="$group__tim__sr__values.html" title="TIMx_SR Timer Status\l Register Flags" alt="" coords="377,544,534,585"/>
+<area shape="rect" id="node10" href="$group__tim__reg__base.html" title="Timer register base\l addresses" alt="" coords="388,609,523,651"/>
+<area shape="rect" id="node11" href="$group__tim__x__cr1__cms.html" title="TIMx_CR1 CMS[1:0]:\l Center&#45;aligned Mode\l Selection" alt="" coords="380,675,531,731"/>
+<area shape="rect" id="node12" href="$group__tim__x__cr2__ois.html" title="TIMx_CR2_OIS: Force\l Output Idle State Control\l Values" alt="" coords="370,755,541,811"/>
+<area shape="rect" id="node14" href="$group__tim__x__cr1__dir.html" title="TIMx_CR1 DIR: Direction" alt="" coords="368,835,543,862"/>
+<area shape="rect" id="node15" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series. " alt="" coords="5,421,149,447"/>
+</map>

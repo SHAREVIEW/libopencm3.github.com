@@ -1,0 +1,15 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node2" href="$group__rcc__apb2enr__en.html" title="RCC_APPB2ENR enable\l values" alt="" coords="358,5,531,47"/>
+<area shape="rect" id="node3" href="$group__rcc__cfgr__ahbpre.html" title="RCC_CFGR AHB prescale\l Factors" alt="" coords="353,71,536,112"/>
+<area shape="rect" id="node4" href="$group__rcc__cfgr2__prediv.html" title="PLL source predividers" alt="" coords="367,137,522,163"/>
+<area shape="rect" id="node5" href="$group__rcc__cfgr__pcs.html" title="PLLSRC: PLL Clock source" alt="" coords="351,187,538,214"/>
+<area shape="rect" id="node7" href="$group__rcc__apb1rstr__rst.html" title="RCC_APB1RSTR reset\l values" alt="" coords="363,239,526,280"/>
+<area shape="rect" id="node8" href="$group__rcc__apb1enr__en.html" title="RCC_APB1ENR enable\l values" alt="" coords="363,304,527,345"/>
+<area shape="rect" id="node9" href="$group__rcc__ahbenr__en.html" title="RCC_APHBENR enable\l values" alt="" coords="361,369,528,411"/>
+<area shape="rect" id="node10" href="$group__rcc__cfgr__hsepre.html" title="PLLXTPRE: HSE divider\l for PLL source" alt="" coords="361,435,529,476"/>
+<area shape="rect" id="node11" href="$group__rcc__ahbrstr__rst.html" title="RCC_AHBRSTR reset values" alt="" coords="345,501,544,527"/>
+<area shape="rect" id="node12" href="$group__rcc__cfgr__pmf.html" title="PLLMUL: PLL multiplication\l factor" alt="" coords="353,552,537,593"/>
+<area shape="rect" id="node13" href="$group__rcc__apb2rstr__rst.html" title="RCC_APB2RSTR reset\l values" alt="" coords="363,617,526,659"/>
+<area shape="rect" id="node14" href="$group__rcc__cfgr__apb1pre.html" title="RCC_CFGR APB prescale\l Factors" alt="" coords="354,683,535,724"/>
+<area shape="rect" id="node6" href="$group__STM32F0xx__defines.html" title="Defined Constants and Types for the STM32F0xx series. " alt="" coords="5,345,148,371"/>
+</map>

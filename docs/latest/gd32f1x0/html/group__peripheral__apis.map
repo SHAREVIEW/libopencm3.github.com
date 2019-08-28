@@ -1,0 +1,5 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 GD32F1x0 Reset and Clock Control " alt="" coords="173,5,311,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="GPIO peripheral API" alt="" coords="171,56,313,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html" title="libopencm3 GD32F1x0 FLASH " alt="" coords="167,107,317,133"/>
+</map>

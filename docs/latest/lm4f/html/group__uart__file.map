@@ -1,0 +1,8 @@
+<map id="UART" name="UART">
+<area shape="rect" id="node1" href="$group__uart__dma.html" title="Enabling Direct Memory Access transfers for the UART " alt="" coords="228,5,364,32"/>
+<area shape="rect" id="node2" href="$group__LM4Fxx.html" title="Libraries for TI Stellaris LM4F series. " alt="" coords="5,107,60,133"/>
+<area shape="rect" id="node4" href="$group__uart__irq.html" title="Configuring interrupts from the UART " alt="" coords="219,56,373,83"/>
+<area shape="rect" id="node5" href="$group__uart__config.html" title="Enabling and configuring the UART " alt="" coords="227,107,365,133"/>
+<area shape="rect" id="node6" href="$group__uart__send__recv.html" title="Sending and receiving data through the UART " alt="" coords="215,158,377,199"/>
+<area shape="rect" id="node7" href="$group__uart__fifo.html" title="Enabling and controlling UART FIFO " alt="" coords="228,224,364,251"/>
+</map>

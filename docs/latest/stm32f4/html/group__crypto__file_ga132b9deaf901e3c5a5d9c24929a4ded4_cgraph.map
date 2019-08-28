@@ -1,0 +1,4 @@
+<map id="crypto_set_algorithm" name="crypto_set_algorithm">
+<area shape="rect" id="node2" href="$group__crypto__file.html#ga77ae468abdc9ed68f924dcfbefe723f1" title="Enable the cryptographic controller and start processing. " alt="" coords="213,5,303,32"/>
+<area shape="rect" id="node3" href="$group__crypto__file.html#gaecaa8d8b190fa22a873a76a5cf67fb62" title="Wait, if the Controller is busy. " alt="" coords="196,56,320,83"/>
+</map>

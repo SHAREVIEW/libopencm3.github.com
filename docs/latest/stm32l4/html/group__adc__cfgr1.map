@@ -1,0 +1,5 @@
+<map id="CFGR1 ADC configuration register 1" name="CFGR1 ADC configuration register 1">
+<area shape="rect" id="node1" href="$group__adc__cfgr1__res.html" title="RES: Data resolution" alt="" coords="402,5,549,32"/>
+<area shape="rect" id="node2" href="$group__adc__cfgr1__exten.html" title="EXTEN: External trigger\l enable and polarity selection\l for regular channels" alt="" coords="380,56,571,112"/>
+<area shape="rect" id="node3" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32L4xx Analog to Digital Converter " alt="" coords="5,39,105,65"/>
+</map>

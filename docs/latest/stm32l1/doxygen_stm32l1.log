@@ -1,0 +1,4 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:43: warning: multiple use of section label 'adc_api_ex' while adding section, (first occurrence: /home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1.c, line 49)
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/l1/lcd.h:49: warning: Member LCD_CR found in multiple @defgroup groups! The member will be put in group lcd_reg_base, and not in group lcd_defines
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:159: warning: unable to resolve reference to `adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/adc_common_v1_multi.c:159: warning: unable to resolve reference to `adc_trigger_injected' for \ref command

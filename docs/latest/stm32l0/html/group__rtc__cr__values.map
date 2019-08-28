@@ -1,0 +1,4 @@
+<map id="RTC control register (RTC_CR) values" name="RTC control register (RTC_CR) values">
+<area shape="rect" id="node1" href="$group__rtc__cr__osel.html" title="These bits are used to select the flag to be routed to AFO_ALARM RTC output. " alt="" coords="352,5,519,47"/>
+<area shape="rect" id="node2" href="$group__rtc__registers.html" title="Real Time Clock registers. " alt="" coords="5,13,116,39"/>
+</map>

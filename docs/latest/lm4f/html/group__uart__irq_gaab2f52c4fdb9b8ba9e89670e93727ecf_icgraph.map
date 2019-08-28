@@ -1,0 +1,3 @@
+<map id="uart_enable_tx_interrupt" name="uart_enable_tx_interrupt">
+<area shape="rect" id="node2" href="$group__uart__fifo.html#ga840603de8127f2b63abdd1f5d113f938" title="Determine if the RX fifo is empty. " alt="" coords="215,5,361,32"/>
+</map>

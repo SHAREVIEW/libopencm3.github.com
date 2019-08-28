@@ -1,0 +1,12 @@
+<map id="get_cbw_buf" name="get_cbw_buf">
+<area shape="rect" id="node2" href="$usb__msc_8c.html#a85cd7451c1bfc24383b60bd8b53073a1" title="scsi_inquiry" alt="" coords="155,5,246,32"/>
+<area shape="rect" id="node8" href="$usb__msc_8c.html#aa9340553bfc7682037cce665df163506" title="scsi_read_10" alt="" coords="151,56,250,83"/>
+<area shape="rect" id="node9" href="$usb__msc_8c.html#a700c7b32d7db1ab7d9a55fb750cfed1a" title="scsi_read_6" alt="" coords="155,107,247,133"/>
+<area shape="rect" id="node10" href="$usb__msc_8c.html#a67ab7f906e09e9fc149b8fa647a91d2f" title="scsi_write_10" alt="" coords="149,157,252,184"/>
+<area shape="rect" id="node11" href="$usb__msc_8c.html#af0e6535bbde2e9a00c6e4c3c77d34540" title="scsi_write_6" alt="" coords="153,208,248,235"/>
+<area shape="rect" id="node3" href="$usb__msc_8c.html#ad834e80e08a1fc52cb6c2a7e4c60e7c4" title="scsi_command" alt="" coords="300,107,411,133"/>
+<area shape="rect" id="node4" href="$usb__msc_8c.html#a41a8c24958254f6628787f0a97befc1c" title="Handle the USB &#39;OUT&#39; requests. " alt="" coords="459,81,577,108"/>
+<area shape="rect" id="node7" href="$usb__msc_8c.html#a88700274691bf361f44a0e3b5703ec9f" title="Handle the USB &#39;IN&#39; requests. " alt="" coords="459,132,577,159"/>
+<area shape="rect" id="node5" href="$usb__msc_8c.html#a226667566a4c9460bc577aa9c72a14b6" title="Setup the endpoints to be bulk &amp; register the callbacks. " alt="" coords="625,107,740,133"/>
+<area shape="rect" id="node6" href="$group__usb__msc.html#ga5e6959c3ac6ff4efab4fd3b59353f497" title="Initializes the USB Mass Storage subsystem. " alt="" coords="788,107,887,133"/>
+</map>

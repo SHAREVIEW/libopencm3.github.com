@@ -1,0 +1,6 @@
+<map id="usb_msc.c" name="usb_msc.c">
+<area shape="rect" id="node5" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="254,229,436,256"/>
+<area shape="rect" id="node7" href="$usbd_8h.html" title="libopencm3/usb/usbd.h" alt="" coords="212,80,368,107"/>
+<area shape="rect" id="node9" href="$usb_2msc_8h.html" title="libopencm3/usb/msc.h" alt="" coords="444,80,598,107"/>
+<area shape="rect" id="node8" href="$usbstd_8h.html" title="libopencm3/usb/usbstd.h" alt="" coords="202,155,368,181"/>
+</map>

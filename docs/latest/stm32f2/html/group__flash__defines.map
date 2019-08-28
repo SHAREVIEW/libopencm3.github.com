@@ -1,0 +1,6 @@
+<map id="FLASH Defines" name="FLASH Defines">
+<area shape="rect" id="node1" href="$group__flash__registers.html" title="Flash Registers" alt="" coords="385,5,500,32"/>
+<area shape="rect" id="node2" href="$group__STM32F2xx__defines.html" title="Defined Constants and Types for the STM32F2xx series. " alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node3" href="$group__flash__cr__program__width.html" title="Flash programming width" alt="" coords="359,56,527,83"/>
+<area shape="rect" id="node4" href="$group__flash__acr__values.html" title="Access Control register values. " alt="" coords="371,107,514,133"/>
+</map>

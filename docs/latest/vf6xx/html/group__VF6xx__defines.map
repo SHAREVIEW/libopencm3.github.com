@@ -1,0 +1,7 @@
+<map id="VF6xx Defines" name="VF6xx Defines">
+<area shape="rect" id="node1" href="$group__VF6xx__iomuxc__defines.html" title="Defined Constants and Types for the VF6xx IO MUX Controller " alt="" coords="163,5,341,32"/>
+<area shape="rect" id="node3" href="$group__anadig__defines.html" title="Defined Constants and Types for the VF6xx Analog components control digital interface ..." alt="" coords="191,56,313,83"/>
+<area shape="rect" id="node4" href="$group__VF6xx__uart__defines.html" title="Defined Constants and Types for the VF6xx UART Module " alt="" coords="198,107,306,133"/>
+<area shape="rect" id="node5" href="$group__ccm__defines.html" title="Defined Constants and Types for the VF6xx Common Clock Module " alt="" coords="201,157,303,184"/>
+<area shape="rect" id="node6" href="$group__VF6xx__gpio__defines.html" title="Defined Constants and Types for the VF6xx GPIO Module " alt="" coords="200,208,304,235"/>
+</map>

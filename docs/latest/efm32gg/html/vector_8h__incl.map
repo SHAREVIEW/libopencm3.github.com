@@ -1,0 +1,6 @@
+<map id="vector.h" name="vector.h">
+<area shape="rect" id="node2" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="5,162,188,189"/>
+<area shape="rect" id="node5" href="$cm3_2nvic_8h.html" title="libopencm3/cm3/nvic.h" alt="" coords="211,80,367,107"/>
+<area shape="rect" id="node6" href="$memorymap_8h.html" title="libopencm3/cm3/memorymap.h" alt="" coords="212,162,416,189"/>
+<area shape="rect" id="node7" href="$dispatch_2nvic_8h.html" title="libopencm3/dispatch\l/nvic.h" alt="" coords="441,155,582,196"/>
+</map>

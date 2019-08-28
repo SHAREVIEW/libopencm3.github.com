@@ -1,0 +1,5 @@
+<map id="spi_common_v1_frf.c" name="spi_common_v1_frf.c">
+<area shape="rect" id="node2" href="$spi_8h.html" title="libopencm3/stm32/spi.h" alt="" coords="127,80,287,107"/>
+<area shape="rect" id="node3" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="5,155,188,181"/>
+<area shape="rect" id="node6" href="$stm32_2memorymap_8h.html" title="libopencm3/stm32/memorymap.h" alt="" coords="212,155,427,181"/>
+</map>

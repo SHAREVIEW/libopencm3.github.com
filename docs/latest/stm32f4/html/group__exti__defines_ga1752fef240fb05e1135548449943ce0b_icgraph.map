@@ -1,0 +1,4 @@
+<map id="exti_disable_request" name="exti_disable_request">
+<area shape="rect" id="node2" href="$group__rtc__file.html#ga36e2af549b7d24f24e5255bbbeb5de71" title="Disable the wakeup timer interrupt. " alt="" coords="195,5,332,47"/>
+<area shape="rect" id="node3" href="$group__rtc__file.html#ga1e0c4ee2164c6aac547970a493be7676" title="Disable the wakeup timer. " alt="" coords="380,5,517,47"/>
+</map>

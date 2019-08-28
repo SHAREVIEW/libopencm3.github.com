@@ -1,0 +1,5 @@
+<map id="flash_lock_pecr" name="flash_lock_pecr">
+<area shape="rect" id="node2" href="$group__flash__file.html#gae0e2e7f89376c21e620ee119a77a5b51" title="Write a word to eeprom. " alt="" coords="170,5,325,32"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga1f32c65ae1724939044d17a0ca4324cd" title="Write a block of words to eeprom. " alt="" coords="167,56,328,83"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#gacd9e0d8e9f52bd1c65fda2ce553f7600" title="Lock all segments of flash. " alt="" coords="207,107,288,133"/>
+</map>

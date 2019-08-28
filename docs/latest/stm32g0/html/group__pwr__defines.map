@@ -1,0 +1,8 @@
+<map id="PWR Defines" name="PWR Defines">
+<area shape="rect" id="node1" href="$group__pwr__registers.html" title="PWR Registers" alt="" coords="348,5,463,32"/>
+<area shape="rect" id="node3" href="$group__pwr__cr2__pvdft.html" title="Power voltage detector falling threshold selection. " alt="" coords="372,56,439,83"/>
+<area shape="rect" id="node4" href="$group__pwr__cr2__pvdrt.html" title="Power voltage detector rising threshold selection. " alt="" coords="371,107,439,133"/>
+<area shape="rect" id="node5" href="$group__pwr__cr1__vos.html" title="Voltage scaling range selection. " alt="" coords="380,157,431,184"/>
+<area shape="rect" id="node6" href="$group__pwr__cr1__lpms.html" title="Low&#45;power mode selection. " alt="" coords="376,208,435,235"/>
+<area shape="rect" id="node7" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series. " alt="" coords="5,107,149,133"/>
+</map>

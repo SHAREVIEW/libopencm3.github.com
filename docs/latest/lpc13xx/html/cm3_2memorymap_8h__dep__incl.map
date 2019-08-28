@@ -1,0 +1,14 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node2" href="$dwt_8h.html" title="dwt.h" alt="" coords="44,80,99,107"/>
+<area shape="rect" id="node4" href="$mpu_8h.html" title="mpu.h" alt="" coords="129,80,187,107"/>
+<area shape="rect" id="node5" href="$cm3_2nvic_8h.html" title="nvic.h" alt="" coords="212,80,269,107"/>
+<area shape="rect" id="node10" href="$scb_8h.html" title="scb.h" alt="" coords="328,80,383,107"/>
+<area shape="rect" id="node12" href="$systick_8h.html" title="systick.h" alt="" coords="439,80,514,107"/>
+<area shape="rect" id="node3" href="$dwt_8c.html" title="dwt.c" alt="" coords="5,155,60,181"/>
+<area shape="rect" id="node6" href="$vector_8h.html" title="Definitions for handling vector tables. " alt="" coords="85,155,154,181"/>
+<area shape="rect" id="node8" href="$lpc13xx_2nvic_8h.html" title="nvic.h" alt="" coords="179,155,236,181"/>
+<area shape="rect" id="node9" href="$nvic_8c.html" title="nvic.c" alt="" coords="260,155,317,181"/>
+<area shape="rect" id="node7" href="$vector_8c.html" title="vector.c" alt="" coords="202,229,271,256"/>
+<area shape="rect" id="node11" href="$scb_8c.html" title="scb.c" alt="" coords="393,155,448,181"/>
+<area shape="rect" id="node13" href="$systick_8c.html" title="systick.c" alt="" coords="473,155,547,181"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="usbd_ep_stall_set" name="usbd_ep_stall_set">
+<area shape="rect" id="node2" href="$group__usb__control__file.html#gaf6f522923d66ffdea79fbbd4decc31d4" title="stall_transaction" alt="" coords="819,84,936,111"/>
+<area shape="rect" id="node10" href="$group__usb__standard__file.html#gaee3cc13f9eb72b9069613111973c2a53" title="usb_standard_endpoint\l_stall" alt="" coords="180,201,336,242"/>
+<area shape="rect" id="node14" href="$group__usb__standard__file.html#gaaeffc19218b5fe5602582e45b68c897f" title="usb_standard_endpoint\l_unstall" alt="" coords="180,135,336,177"/>
+<area shape="rect" id="node3" href="$group__usb__control__file.html#gaf3b08c6a689c9f5a20f636507e70bb52" title="usb_control_recv_chunk" alt="" coords="995,185,1157,212"/>
+<area shape="rect" id="node4" href="$usb__control_8c.html#a1a921e8785fafeee17c588aa26cff014" title="_usbd_control_out" alt="" coords="1213,160,1341,187"/>
+<area shape="rect" id="node6" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title="usb_control_setup_read" alt="" coords="996,135,1156,161"/>
+<area shape="rect" id="node8" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title="usb_control_setup_write" alt="" coords="995,33,1157,60"/>
+<area shape="rect" id="node9" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title="_usbd_control_in" alt="" coords="1217,8,1337,35"/>
+<area shape="rect" id="node5" href="$group__usb__drivers__file.html#ga3f1854d80f9d88cdb206a96e5f2b703e" title="Main initialization entry point. " alt="" coords="1396,109,1471,136"/>
+<area shape="rect" id="node7" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title="_usbd_control_setup" alt="" coords="1205,109,1348,136"/>
+<area shape="rect" id="node11" href="$usb__standard_8c.html#afc75bea6ba0b8d0d1bfccf96eceba818" title="_usbd_standard_request\l_endpoint" alt="" coords="384,169,548,210"/>
+<area shape="rect" id="node12" href="$usb__standard_8c.html#acbe64f834a6a41461dab4e179e5caa72" title="_usbd_standard_request" alt="" coords="596,176,760,203"/>
+<area shape="rect" id="node13" href="$group__usb__control__file.html#gaf0d388254ab4cbc34f2903cd7f9ce097" title="usb_control_request\l_dispatch" alt="" coords="808,169,947,210"/>
+</map>

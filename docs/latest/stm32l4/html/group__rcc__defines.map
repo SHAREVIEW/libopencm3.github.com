@@ -1,0 +1,13 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node2" href="$group__rcc__csr__msirange.html" title="Range of the MSI oscillator after returning from standby. " alt="" coords="360,5,528,47"/>
+<area shape="rect" id="node3" href="$group__rcc__apb2enr__en.html" title="RCC_APB2ENR enable\l values" alt="" coords="362,71,526,112"/>
+<area shape="rect" id="node4" href="$group__rcc__pllcfgr__pllm.html" title="Allowed values 1 &lt;= m &lt;= 8. " alt="" coords="344,137,544,163"/>
+<area shape="rect" id="node5" href="$group__rcc__pllcfgr__plln.html" title="Allowed values 8 &lt;= n &lt;= 86. " alt="" coords="345,187,543,214"/>
+<area shape="rect" id="node6" href="$group__rcc__cr__msirange.html" title="Range of the MSI oscillator Twelve frequency ranges are available: 100 kHz, 200 kHz, 400 kHz, 800 kHz, 1 MHz, 2 MHz, 4 MHz (default value), 8 MHz, 16 MHz, 24 MHz, 32 MHz and 48 MHz. " alt="" coords="400,238,488,265"/>
+<area shape="rect" id="node8" href="$group__rcc__apb1rstr__rst.html" title="RCC_APB1RSTRx reset\l values (full set)" alt="" coords="359,289,529,331"/>
+<area shape="rect" id="node9" href="$group__rcc__apb1enr__en.html" title="RCC_APB1ENRx enable\l values (full set)" alt="" coords="359,355,529,396"/>
+<area shape="rect" id="node10" href="$group__rcc__ahbenr__en.html" title="RCC_AHBxENR enable\l values (full set)" alt="" coords="361,420,527,461"/>
+<area shape="rect" id="node11" href="$group__rcc__ahbrstr__rst.html" title="RCC_AHBxRSTR reset\l values (full set)" alt="" coords="362,485,526,527"/>
+<area shape="rect" id="node12" href="$group__rcc__apb2rstr__rst.html" title="RCC_APB2RSTR reset\l values" alt="" coords="363,551,525,592"/>
+<area shape="rect" id="node7" href="$group__STM32L4xx__defines.html" title="Defined Constants and Types for the STM32L4xx series. " alt="" coords="5,267,147,294"/>
+</map>

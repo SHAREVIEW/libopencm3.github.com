@@ -1,0 +1,9 @@
+<map id="LPTIM_CFGR Configuration Register" name="LPTIM_CFGR Configuration Register">
+<area shape="rect" id="node3" href="$group__lptim__cfgr__ckflt.html" title="LPTIM_CFGR CKFLT Configurable\l digital filter for external clock" alt="" coords="403,5,633,47"/>
+<area shape="rect" id="node4" href="$group__LPTIM__CFGR__TRIGEN.html" title="LPTIM_CFGR TRIGEN Trigger\l enable and polarity" alt="" coords="415,71,621,112"/>
+<area shape="rect" id="node5" href="$group__lptim__cfgr__ckpol.html" title="LPTIM_CFGR CKPOL Clock\l Polarity" alt="" coords="421,136,615,177"/>
+<area shape="rect" id="node6" href="$group__lptim__cfgr__presc.html" title="LPTIM_CFGR PRESC Clock\l prescaler" alt="" coords="421,201,615,243"/>
+<area shape="rect" id="node7" href="$group__lptim__cfgr__trigsel.html" title="LPTIM_CFGR TRIGSEL\l Trigger selector" alt="" coords="435,267,601,308"/>
+<area shape="rect" id="node8" href="$group__lptim__cfgr__trgflt.html" title="LPTIM_CFGR TRGFLT Configurable\l digital filter for trigger" alt="" coords="399,332,637,373"/>
+<area shape="rect" id="node2" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32F4xx Low Power Timer " alt="" coords="5,177,116,203"/>
+</map>

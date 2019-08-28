@@ -1,0 +1,6 @@
+<map id="usb_dwc_common.c" name="usb_dwc_common.c">
+<area shape="rect" id="node3" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="17,244,200,271"/>
+<area shape="rect" id="node6" href="$usbd_8h.html" title="libopencm3/usb/usbd.h" alt="" coords="147,87,303,114"/>
+<area shape="rect" id="node8" href="$otg__common_8h.html" title="libopencm3/usb/dwc\l/otg_common.h" alt="" coords="327,80,469,121"/>
+<area shape="rect" id="node7" href="$usbstd_8h.html" title="libopencm3/usb/usbstd.h" alt="" coords="147,169,313,196"/>
+</map>

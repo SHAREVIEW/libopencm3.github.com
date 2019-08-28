@@ -1,0 +1,4 @@
+<map id="UART Control" name="UART Control">
+<area shape="rect" id="node2" href="$group__uart__reg__base.html" title="UART register base\l addresses" alt="" coords="311,5,449,47"/>
+<area shape="rect" id="node3" href="$group__LM4Fxx__defines.html" title="Defined Constants and Types for the LM4F series. " alt="" coords="5,13,109,39"/>
+</map>

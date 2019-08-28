@@ -1,0 +1,6 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node2" href="$group__rcc__file.html#gafebecc597753020e983a9c2eb52ffb86" title="Switch sysclock to HSI with the given parameters. " alt="" coords="224,5,365,32"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga1e7007a97265f845a0e55d46e3076288" title="rcc_clock_setup_msi" alt="" coords="222,56,367,83"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="rcc_clock_setup_pll" alt="" coords="226,107,363,133"/>
+<area shape="rect" id="node5" href="$st__usbfs__v1_8c.html#a83ece38ce632189e58f2543375eb4363" title="Initialize the USB device controller hardware of the STM32. " alt="" coords="219,157,371,184"/>
+</map>

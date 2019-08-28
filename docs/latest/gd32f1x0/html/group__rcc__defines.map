@@ -1,0 +1,18 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__rcc__cfgr__usbpre.html" title="USBPRE: USB prescaler\l (RCC_CFGR[23:22])" alt="" coords="365,5,536,47"/>
+<area shape="rect" id="node3" href="$group__rcc__cfgr__apb2pre.html" title="PPRE2: APB high&#45;speed\l prescaler (APB2)" alt="" coords="367,71,535,112"/>
+<area shape="rect" id="node5" href="$group__rcc__apb2enr__en.html" title="RCC_APB2ENR enable\l values" alt="" coords="369,136,533,177"/>
+<area shape="rect" id="node6" href="$group__rcc__cfgr__ahbpre.html" title="HPRE: AHB prescaler" alt="" coords="374,202,527,229"/>
+<area shape="rect" id="node7" href="$group__rcc__cfgr__adcpre.html" title="ADCPRE: ADC prescaler" alt="" coords="364,253,537,279"/>
+<area shape="rect" id="node8" href="$group__rcc__cfgr__pcs.html" title="PLLSRC: PLL entry clock\l source" alt="" coords="364,304,537,345"/>
+<area shape="rect" id="node9" href="$group__rcc__apb1rstr__rst.html" title="RCC_APB1RSTR reset\l values values" alt="" coords="369,369,532,411"/>
+<area shape="rect" id="node10" href="$group__rcc__apb1enr__en.html" title="RCC_APB1ENR enable\l values" alt="" coords="369,435,533,476"/>
+<area shape="rect" id="node11" href="$group__rcc__ahbenr__en.html" title="RCC_AHBENR enable values" alt="" coords="351,501,551,527"/>
+<area shape="rect" id="node12" href="$group__rcc__cfgr__hsepre.html" title="PLLXTPRE: HSE divider\l for PLL entry" alt="" coords="367,552,535,593"/>
+<area shape="rect" id="node13" href="$group__rcc__cfgr__scs.html" title="SW: System clock switch" alt="" coords="363,618,538,645"/>
+<area shape="rect" id="node14" href="$group__rcc__ahbrstr__rst.html" title="RCC_AHBRSTR reset values\l values" alt="" coords="351,669,550,711"/>
+<area shape="rect" id="node15" href="$group__rcc__cfgr__pmf.html" title="PLLMUL: PLL multiplication\l factor" alt="" coords="359,735,543,776"/>
+<area shape="rect" id="node16" href="$group__rcc__apb2rstr__rst.html" title="RCC_APB2RSTR reset\l values values" alt="" coords="369,800,532,841"/>
+<area shape="rect" id="node17" href="$group__rcc__cfgr__apb1pre.html" title="PPRE1: APB low&#45;speed\l prescaler (APB1)" alt="" coords="369,865,533,907"/>
+<area shape="rect" id="node4" href="$group__GD32F1x0__defines.html" title="Defined Constants and Types for the GD32F1x0xx series. " alt="" coords="5,442,153,469"/>
+</map>

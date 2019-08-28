@@ -1,0 +1,37 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node2" href="$group__rcc__ccipr__usart2sel.html" title="USART2SEL USART2 Clock\l source selection" alt="" coords="349,5,544,47"/>
+<area shape="rect" id="node3" href="$group__rcc__ccipr__usart1sel.html" title="USART1SEL USART1 Clock\l source selection" alt="" coords="349,71,544,112"/>
+<area shape="rect" id="node4" href="$group__rcc__ccipr__lptim2sel.html" title="LPTIM2SEL LPTIM2 Clock\l source selection" alt="" coords="356,136,537,177"/>
+<area shape="rect" id="node5" href="$group__rcc__ccipr__lptim1sel.html" title="LPTIM1SEL LPTIM1 Clock\l source selection" alt="" coords="356,201,537,243"/>
+<area shape="rect" id="node6" href="$group__rcc__cfgr__mcosel.html" title="Microcontroler clock output selector. " alt="" coords="409,267,485,294"/>
+<area shape="rect" id="node7" href="$group__rcc__cfgr__hpre.html" title="APB Prescaler. " alt="" coords="417,318,477,345"/>
+<area shape="rect" id="node8" href="$group__rcc__bdcr__rtcsel.html" title="RTCSEL RTC Clock source\l selection" alt="" coords="353,369,541,411"/>
+<area shape="rect" id="node9" href="$group__rcc__pllcfgr__pllp.html" title="VCO Division factor P for PLLPCLK clock output [2..32]. " alt="" coords="419,435,474,462"/>
+<area shape="rect" id="node10" href="$group__rcc__pllcfgr__pllq.html" title="VCO Division factor Q for PLLQCLK clock output [2..8]. " alt="" coords="419,486,474,513"/>
+<area shape="rect" id="node11" href="$group__rcc__pllcfgr__pllr.html" title="VCO Division factor R for PLLRCLK clock output [2..8]. " alt="" coords="419,537,474,563"/>
+<area shape="rect" id="node12" href="$group__rcc__bdcr__lsedrv.html" title="LSEDRV LSE Oscillator\l drive capacity" alt="" coords="365,588,529,629"/>
+<area shape="rect" id="node13" href="$group__rcc__pllcfgr__pllm.html" title="Division factor M [1..8] for PLL input clock. " alt="" coords="419,654,475,681"/>
+<area shape="rect" id="node14" href="$group__rcc__ccipr__rngdiv.html" title="RNGDIV" alt="" coords="409,705,484,731"/>
+<area shape="rect" id="node15" href="$group__rcc__pllcfgr__plln.html" title="Multiplication factor N [8..86] for PLL VCO output frequency. " alt="" coords="419,755,474,782"/>
+<area shape="rect" id="node16" href="$group__rcc__ccipr__tim1sel.html" title="TIM1SEL" alt="" coords="408,806,485,833"/>
+<area shape="rect" id="node17" href="$group__rcc__ccipr__i2s1sel.html" title="I2S1SEL I2S1 Clock\l source selection" alt="" coords="375,857,518,899"/>
+<area shape="rect" id="node18" href="$group__rcc__cr__hsidiv.html" title="Division factor of the HSI16 oscillator to produce HSISYS clock. " alt="" coords="412,923,481,950"/>
+<area shape="rect" id="node19" href="$group__rcc__aphbsmenr__en.html" title="RCC_AHBSMENR enable\l in sleep/stop mode\l values" alt="" coords="357,974,536,1030"/>
+<area shape="rect" id="node20" href="$group__rcc__cfgr__sws.html" title="System clock switch status. " alt="" coords="420,1054,473,1081"/>
+<area shape="rect" id="node21" href="$group__rcc__apbsmenr2__en.html" title="RCC_APBSMENR2 enable\l in sleep/stop mode values" alt="" coords="355,1105,539,1147"/>
+<area shape="rect" id="node22" href="$group__rcc__apb1rstr__rst.html" title="RCC_APBRSTRx reset\l values (full set)" alt="" coords="365,1171,528,1212"/>
+<area shape="rect" id="node23" href="$group__rcc__apb1enr__en.html" title="RCC_APBENRx enable\l values (full set)" alt="" coords="365,1236,529,1277"/>
+<area shape="rect" id="node24" href="$group__rcc__ccipr__tim15sel.html" title="TIM15SEL" alt="" coords="405,1302,489,1329"/>
+<area shape="rect" id="node25" href="$group__rcc__cfgr__ppre.html" title="APB Prescaler. " alt="" coords="417,1353,476,1379"/>
+<area shape="rect" id="node26" href="$group__rcc__pllcfgr__pllsrc.html" title="PLL input clock source. " alt="" coords="409,1403,484,1430"/>
+<area shape="rect" id="node27" href="$group__rcc__ccipr__cecsel.html" title="CECSEL CEC Clock souce\l selection" alt="" coords="353,1455,540,1496"/>
+<area shape="rect" id="node28" href="$group__rcc__ccipr__i2c1sel.html" title="I2C1SEL I2C1 Clock\l source selection" alt="" coords="374,1520,519,1561"/>
+<area shape="rect" id="node29" href="$group__rcc__cfgr__mcopre.html" title="Division factor of microcontroler clock output. " alt="" coords="408,1586,485,1613"/>
+<area shape="rect" id="node30" href="$group__rcc__ahbenr__en.html" title="RCC_AHBENR enable values" alt="" coords="347,1637,547,1663"/>
+<area shape="rect" id="node31" href="$group__rcc__ccipr__rngsel.html" title="RNGSEL" alt="" coords="408,1687,485,1714"/>
+<area shape="rect" id="node32" href="$group__rcc__ccipr__adcsel.html" title="ADCSEL" alt="" coords="409,1738,485,1765"/>
+<area shape="rect" id="node33" href="$group__rcc__ahbrstr__rst.html" title="RCC_AHBRSTR reset values" alt="" coords="347,1789,546,1815"/>
+<area shape="rect" id="node35" href="$group__rcc__ccipr__lpuart1sel.html" title="LPUART1SEL LPUART1\l Clock source selection" alt="" coords="361,1840,532,1881"/>
+<area shape="rect" id="node36" href="$group__rcc__apbsmenr__en.html" title="RCC_APBSMENR1 enable\l in sleep/stop mode values" alt="" coords="355,1905,539,1947"/>
+<area shape="rect" id="node34" href="$group__STM32G0xx__defines.html" title="Defined Constants and Types for the STM32G0xx series. " alt="" coords="5,957,149,983"/>
+</map>

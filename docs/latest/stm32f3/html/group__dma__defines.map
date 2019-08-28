@@ -1,0 +1,8 @@
+<map id="DMA Defines" name="DMA Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series. " alt="" coords="5,137,148,163"/>
+<area shape="rect" id="node2" href="$group__dma__ch__pri.html" title="DMA Channel Priority\l Levels" alt="" coords="361,5,511,47"/>
+<area shape="rect" id="node3" href="$group__dma__if__offset.html" title="group. " alt="" coords="345,71,527,112"/>
+<area shape="rect" id="node4" href="$group__dma__ch.html" title="DMA Channel Number" alt="" coords="359,137,513,163"/>
+<area shape="rect" id="node5" href="$group__dma__ch__perwidth.html" title="DMA Channel Peripheral\l Word Width" alt="" coords="353,188,519,229"/>
+<area shape="rect" id="node6" href="$group__dma__ch__memwidth.html" title="DMA Channel Memory\l Word Width" alt="" coords="359,253,513,295"/>
+</map>

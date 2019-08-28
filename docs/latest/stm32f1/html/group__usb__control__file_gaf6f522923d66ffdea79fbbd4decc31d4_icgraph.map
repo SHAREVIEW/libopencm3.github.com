@@ -1,0 +1,9 @@
+<map id="stall_transaction" name="stall_transaction">
+<area shape="rect" id="node2" href="$usb__control_8c.html#a322b01bbbac6fb3c095d4bb6fc54184d" title="_usbd_control_in" alt="" coords="393,5,513,32"/>
+<area shape="rect" id="node4" href="$usb__control_8c.html#a1a921e8785fafeee17c588aa26cff014" title="_usbd_control_out" alt="" coords="389,68,517,95"/>
+<area shape="rect" id="node5" href="$group__usb__control__file.html#gaf3b08c6a689c9f5a20f636507e70bb52" title="usb_control_recv_chunk" alt="" coords="171,93,333,120"/>
+<area shape="rect" id="node6" href="$group__usb__control__file.html#ga2149cd30a26a18c9c46e32db4aa5ef3e" title="usb_control_setup_read" alt="" coords="172,144,332,171"/>
+<area shape="rect" id="node8" href="$group__usb__control__file.html#gab9305438ecc3aaa7359aacdbc4f55c29" title="usb_control_setup_write" alt="" coords="171,195,333,221"/>
+<area shape="rect" id="node3" href="$group__usb__drivers__file.html#ga3f1854d80f9d88cdb206a96e5f2b703e" title="Main initialization entry point. " alt="" coords="572,68,647,95"/>
+<area shape="rect" id="node7" href="$usb__control_8c.html#ad4bc495b7e757434644e1dece336b261" title="_usbd_control_setup" alt="" coords="381,144,524,171"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="SPI Defines" name="SPI Defines">
+<area shape="rect" id="node1" href="$group__STM32F3xx__defines.html" title="Defined Constants and Types for the STM32F3xx series. " alt="" coords="5,183,148,209"/>
+<area shape="rect" id="node2" href="$group__spi__reg__base.html" title="SPI Register base address" alt="" coords="337,5,516,32"/>
+<area shape="rect" id="node3" href="$group__spi__ds.html" title="SPI data size" alt="" coords="376,56,477,83"/>
+<area shape="rect" id="node4" href="$group__spi__cpha.html" title="SPI clock phase" alt="" coords="367,107,486,133"/>
+<area shape="rect" id="node6" href="$group__spi__lsbfirst.html" title="SPI lsb/msb first" alt="" coords="367,157,487,184"/>
+<area shape="rect" id="node7" href="$group__spi__cpol.html" title="SPI clock polarity" alt="" coords="364,208,489,235"/>
+<area shape="rect" id="node8" href="$group__spi__baudrate.html" title="SPI peripheral baud\l rates" alt="" coords="359,259,495,301"/>
+<area shape="rect" id="node9" href="$group__spi__br__pre.html" title="SPI peripheral baud\l rate prescale values" alt="" coords="355,325,498,366"/>
+<area shape="rect" id="node10" href="$group__spi__crcl.html" title="SPI crc length" alt="" coords="374,391,479,417"/>
+</map>

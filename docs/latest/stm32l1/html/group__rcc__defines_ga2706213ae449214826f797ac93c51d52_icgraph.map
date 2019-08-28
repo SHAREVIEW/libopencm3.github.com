@@ -1,0 +1,6 @@
+<map id="rcc_is_osc_ready" name="rcc_is_osc_ready">
+<area shape="rect" id="node2" href="$group__rcc__file.html#ga1dfd0e0ba16285ce16e782e07af2cafa" title="Wait for Oscillator Ready. " alt="" coords="177,56,337,83"/>
+<area shape="rect" id="node3" href="$group__rcc__file.html#ga1e7007a97265f845a0e55d46e3076288" title="rcc_clock_setup_msi" alt="" coords="385,5,531,32"/>
+<area shape="rect" id="node4" href="$group__rcc__file.html#gafebecc597753020e983a9c2eb52ffb86" title="Switch sysclock to HSI with the given parameters. " alt="" coords="387,56,529,83"/>
+<area shape="rect" id="node5" href="$group__rcc__file.html#ga4bbf49936af50688a96ec4f309f710c6" title="rcc_clock_setup_pll" alt="" coords="389,107,527,133"/>
+</map>

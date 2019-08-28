@@ -1,0 +1,9 @@
+<map id="flash_get_status_flags" name="flash_get_status_flags">
+<area shape="rect" id="node2" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended. " alt="" coords="207,99,337,141"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#gaf5077b5726c70fa9418db9d73182f89d" title="Program a Half Word to FLASH. " alt="" coords="385,5,552,32"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#ga0aee649731aaa8c1316c12f5bea7c31b" title="Erase a Page of FLASH. " alt="" coords="407,56,531,83"/>
+<area shape="rect" id="node6" href="$group__flash__file.html#gaf1804e22fb8a901f3a5f85535aa1ff7b" title="Erase All FLASH. " alt="" coords="393,107,544,133"/>
+<area shape="rect" id="node7" href="$group__flash__file.html#ga6242ed6be7838125093c9b8b6adeeca1" title="Erase All Option Bytes. " alt="" coords="403,158,534,199"/>
+<area shape="rect" id="node8" href="$group__flash__file.html#gab759a6e89a54cfb15a60c0e8f4eb66df" title="Program the Option Bytes. " alt="" coords="395,223,542,265"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga73937aa6df8710e95425b165730626a2" title="Program a 32 bit Word to FLASH. " alt="" coords="600,5,739,32"/>
+</map>

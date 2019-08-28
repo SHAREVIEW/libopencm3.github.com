@@ -1,0 +1,7 @@
+<map id="efm32hg_usbd_init" name="efm32hg_usbd_init">
+<area shape="rect" id="node2" href="$group__cmu__defines.html#gada6524dd7e3b149aebfb8ce99d2e0e95" title="Turn on Oscillator. " alt="" coords="222,5,318,32"/>
+<area shape="rect" id="node3" href="$group__cmu__defines.html#ga2207872ca9eed6a119d9bb8cc9e974f6" title="Enable Peripheral Clock in running mode. " alt="" coords="184,56,356,83"/>
+<area shape="rect" id="node4" href="$group__cmu__defines.html#ga3e380bb76731c9ac73111769662d9021" title="Set USBCLK clock source. " alt="" coords="189,107,351,133"/>
+<area shape="rect" id="node5" href="$group__cmu__defines.html#gaf869ee2183ff6960db9250c4df9e8ff4" title="Wait while oscillator is not ready. " alt="" coords="187,157,353,184"/>
+<area shape="rect" id="node6" href="$group__cmu__defines.html#ga0e56009b0cf5edbcb4a2838f04611ae3" title="Wait while USBCLK is not selected. " alt="" coords="197,209,343,250"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="RCC Defines" name="RCC Defines">
+<area shape="rect" id="node1" href="$group__rcc__cfgr__usbpre.html" title="RCC_CFGR USB prescale\l Factors" alt="" coords="356,5,539,47"/>
+<area shape="rect" id="node3" href="$group__rcc__cfgr__apb2pre.html" title="RCC_CFGR APB2 prescale\l Factors" alt="" coords="353,71,541,112"/>
+<area shape="rect" id="node5" href="$group__rcc__apb2enr__en.html" title="RCC_APB2ENR enable\l values" alt="" coords="365,136,529,177"/>
+<area shape="rect" id="node6" href="$group__rcc__cfgr__ahbpre.html" title="RCC_CFGR AHB prescale\l Factors" alt="" coords="356,201,539,243"/>
+<area shape="rect" id="node7" href="$group__rcc__cfgr__co.html" title="RCC_CFGR Microcontroller\l Clock Output Source" alt="" coords="354,267,541,308"/>
+<area shape="rect" id="node8" href="$group__rcc__cfgr__adcpre.html" title="RCC ADC clock prescaler\l enable values" alt="" coords="359,332,536,373"/>
+<area shape="rect" id="node9" href="$group__rcc__cfgr__pcs.html" title="RCC_CFGR PLL Clock\l Source" alt="" coords="366,397,529,439"/>
+<area shape="rect" id="node10" href="$group__rcc__apb1rstr__rst.html" title="RCC_APB1RSTR reset\l values" alt="" coords="366,463,529,504"/>
+<area shape="rect" id="node11" href="$group__rcc__apb1enr__en.html" title="RCC_APB1ENR enable\l values" alt="" coords="365,528,529,569"/>
+<area shape="rect" id="node12" href="$group__rcc__ahbenr__en.html" title="RCC_AHBENR enable values" alt="" coords="347,594,547,621"/>
+<area shape="rect" id="node13" href="$group__rcc__cfgr__hsepre.html" title="RCC_CFGR HSE Divider\l for PLL" alt="" coords="360,645,535,687"/>
+<area shape="rect" id="node14" href="$group__rcc__cfgr__scs.html" title="RCC_CFGR System Clock\l Selection" alt="" coords="355,711,539,752"/>
+<area shape="rect" id="node15" href="$group__rcc__ahbrstr__rst.html" title="RCC_AHBRSTR reset values" alt="" coords="348,777,547,803"/>
+<area shape="rect" id="node16" href="$group__rcc__cfgr__pmf.html" title="RCC_CFGR PLL Multiplication\l Factor" alt="" coords="345,828,549,869"/>
+<area shape="rect" id="node17" href="$group__rcc__apb2rstr__rst.html" title="RCC_APB2RSTR reset\l values" alt="" coords="366,893,529,935"/>
+<area shape="rect" id="node18" href="$group__rcc__cfgr__apb1pre.html" title="RCC_CFGR APB1 prescale\l Factors" alt="" coords="353,959,541,1000"/>
+<area shape="rect" id="node4" href="$group__STM32F1xx__defines.html" title="Defined Constants and Types for the STM32F1xx series. " alt="" coords="5,503,148,530"/>
+</map>

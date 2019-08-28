@@ -1,0 +1,45 @@
+<map id="System Control Defines" name="System Control Defines">
+<area shape="rect" id="node1" href="$group__sysctl__nvmstat__values.html" title="System Control Non&#45;Volatile Memory Information Register Values. " alt="" coords="430,5,619,32"/>
+<area shape="rect" id="node2" href="$group__sysctl__pllfreq1__values.html" title="System Control PLL Frequency 1 Register Values. " alt="" coords="429,56,621,83"/>
+<area shape="rect" id="node3" href="$group__sysctl__altclkcfg__values.html" title="System Control Alternate Clock Configuration Register Values. " alt="" coords="423,107,626,133"/>
+<area shape="rect" id="node4" href="$group__sysctl__imc__values.html" title="System Control Interrupt Mask Control Register Values. " alt="" coords="449,157,600,184"/>
+<area shape="rect" id="node5" href="$group__sysctl__can1mpc__values.html" title="System Control CAN 1 Memory Power Control Register Values. " alt="" coords="429,208,620,235"/>
+<area shape="rect" id="node6" href="$group__sysctl__pwrtc__values.html" title="System Control Power&#45;Temperature Cause Register Values. " alt="" coords="437,259,612,285"/>
+<area shape="rect" id="node7" href="$group__sysctl__slppwrcfg__values.html" title="System Control Sleep Power Configuration Register Values. " alt="" coords="419,309,630,336"/>
+<area shape="rect" id="node8" href="$group__sysctl__can0mpc__values.html" title="System Control CAN 0 Memory Power Control Register Values. " alt="" coords="429,360,620,387"/>
+<area shape="rect" id="node9" href="$group__sysctl__did1__values.html" title="System Control Device Identification 1 Register Values. " alt="" coords="447,411,603,437"/>
+<area shape="rect" id="node10" href="$group__sysctl__piosccal__values.html" title="System Control Precision Internal Oscillator Calibration Register Values. " alt="" coords="428,461,621,488"/>
+<area shape="rect" id="node11" href="$group__sysctl__ldodpcal__values.html" title="System Control LDO Deep&#45;Sleep Power Calibration Register Values. " alt="" coords="426,512,623,539"/>
+<area shape="rect" id="node12" href="$group__sysctl__did0__values.html" title="System Control Device Identification 0 Register Values. " alt="" coords="447,563,603,589"/>
+<area shape="rect" id="node13" href="$group__sysctl__dslppwrcfg__values.html" title="System Control Deep&#45;Sleep Power Configuration Register Values. " alt="" coords="415,613,635,640"/>
+<area shape="rect" id="node14" href="$group__sysctl__ldospctl__values.html" title="System Control LDO Sleep Power Control Register Values. " alt="" coords="427,664,622,691"/>
+<area shape="rect" id="node15" href="$group__sysctl__lcdpds__values.html" title="System Control LCD Power Domain Status Register Values. " alt="" coords="435,715,615,741"/>
+<area shape="rect" id="node16" href="$group__sysctl__nmic__values.html" title="System Control NMI Cause Register Values. " alt="" coords="445,765,605,792"/>
+<area shape="rect" id="node17" href="$group__sysctl__can1pds__values.html" title="System Control CAN 1 Power Domain Status Register Values. " alt="" coords="430,816,619,843"/>
+<area shape="rect" id="node18" href="$group__sysctl__rsclkcfg__values.html" title="System Control Run and Sleep Mode Configuration Register Values. " alt="" coords="425,867,624,893"/>
+<area shape="rect" id="node19" href="$group__sysctl__hssr__values.html" title="System Control Hardware System Service Request Register Values. " alt="" coords="443,917,606,944"/>
+<area shape="rect" id="node20" href="$group__sysctl__moscctl__values.html" title="System Control Main Oscillator Control Register Values. " alt="" coords="429,968,620,995"/>
+<area shape="rect" id="node21" href="$group__sysctl__ptboctl__values.html" title="System Control Power&#45;Temp Brownout Control Register Values. " alt="" coords="428,1019,621,1045"/>
+<area shape="rect" id="node22" href="$group__sysctl__ldodpctl__values.html" title="System Control LDO Deep&#45;Sleep Power Control Register Values. " alt="" coords="427,1069,623,1096"/>
+<area shape="rect" id="node24" href="$group__sysctl__sdpmst__values.html" title="System Control Sleep/Deep&#45;Sleep Power Mode Status Register Values. " alt="" coords="434,1120,615,1147"/>
+<area shape="rect" id="node25" href="$group__sysctl__ric__values.html" title="System Control Raw Interrupt Status Register Values. " alt="" coords="451,1171,599,1197"/>
+<area shape="rect" id="node26" href="$group__sysctl__emacpds__values.html" title="System Control Ethernet MAC Power Domain Status Register Values. " alt="" coords="429,1221,621,1248"/>
+<area shape="rect" id="node27" href="$group__sysctl__pioscstat__values.html" title="System Control Precision Internal Oscillator Statistics Register Values. " alt="" coords="424,1272,625,1299"/>
+<area shape="rect" id="node28" href="$group__sysctl__usbmpc__values.html" title="System Control USB Memory Power Control Register Values. " alt="" coords="433,1323,616,1349"/>
+<area shape="rect" id="node29" href="$group__sysctl__resc__values.html" title="System Control Reset Cause Register Values. " alt="" coords="443,1373,606,1400"/>
+<area shape="rect" id="node30" href="$group__sysctl__resbehavctl__values.html" title="System Control Reset Behavior Control Register Values. " alt="" coords="435,1425,615,1466"/>
+<area shape="rect" id="node31" href="$group__sysctl__dsclkcfg__values.html" title="System Control Deep Sleep Clock Configuration Register Values. " alt="" coords="425,1491,624,1517"/>
+<area shape="rect" id="node32" href="$group__sysctl__emacmpc__values.html" title="System Control Ethernet MAC Memory Power Control Register Values. " alt="" coords="427,1541,622,1568"/>
+<area shape="rect" id="node33" href="$group__sysctl__memtim0__values.html" title="System Control Memory Timing Parameter Register 0 for Main Flash and EEPROM Register Values..." alt="" coords="431,1592,618,1619"/>
+<area shape="rect" id="node34" href="$group__sysctl__misc__values.html" title="System Control Masked Interrupt Status and Clear Register Values. " alt="" coords="445,1643,604,1669"/>
+<area shape="rect" id="node35" href="$group__sysctl__usbpds__values.html" title="System Control USB Power Domain Status Register Values. " alt="" coords="434,1693,615,1720"/>
+<area shape="rect" id="node36" href="$group__sysctl__pllstat__values.html" title="System Control PLL Status Register Values. " alt="" coords="433,1744,616,1771"/>
+<area shape="rect" id="node37" href="$group__sysctl__sysprop__values.html" title="System Control System Properties Register Values. " alt="" coords="429,1795,620,1821"/>
+<area shape="rect" id="node39" href="$group__sysctl__divsclk__values.html" title="System Control Divisor and Source Clock Configuration Register Values. " alt="" coords="433,1845,616,1872"/>
+<area shape="rect" id="node40" href="$group__sysctl__lcdmpc__values.html" title="System Control LCD Memory Power Control Register Values. " alt="" coords="433,1896,616,1923"/>
+<area shape="rect" id="node41" href="$group__sysctl__registers.html" title="System Control Registers. " alt="" coords="457,1947,592,1973"/>
+<area shape="rect" id="node42" href="$group__sysctl__can0pds__values.html" title="System Control CAN 0 Power Domain Status Register Values. " alt="" coords="430,1997,619,2024"/>
+<area shape="rect" id="node43" href="$group__sysctl__pllfreq0__values.html" title="System Control PLL Frequency 0 Register Values. " alt="" coords="429,2048,621,2075"/>
+<area shape="rect" id="node44" href="$group__sysctl__ldospcal__values.html" title="System Control LDO Sleep Power Calibration Register Values. " alt="" coords="427,2099,623,2125"/>
+<area shape="rect" id="node38" href="$group__MSP432E4xx__defines.html" title="Defined Constants and Types for the MSP432E4xx series. " alt="" coords="5,1044,156,1071"/>
+</map>

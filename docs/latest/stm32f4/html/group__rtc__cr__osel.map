@@ -1,0 +1,3 @@
+<map id="RTC_CR_OSEL: Output selection values" name="RTC_CR_OSEL: Output selection values">
+<area shape="rect" id="node2" href="$group__rtc__cr__values.html" title="Note: Bits [31:24] are reserved, and must be kept at reset value. " alt="" coords="5,5,145,47"/>
+</map>

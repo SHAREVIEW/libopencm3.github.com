@@ -1,0 +1,4 @@
+<map id="General Purpose Timers" name="General Purpose Timers">
+<area shape="rect" id="node1" href="$group__timer__registers.html" title="Unless otherwise specified, these registers are RW. " alt="" coords="368,5,500,32"/>
+<area shape="rect" id="node2" href="$group__LM4Fxx__defines.html" title="Defined Constants and Types for the LM4F series. " alt="" coords="5,5,109,32"/>
+</map>

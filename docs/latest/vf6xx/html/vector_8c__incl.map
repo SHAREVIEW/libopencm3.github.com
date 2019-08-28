@@ -1,0 +1,10 @@
+<map id="vector.c" name="vector.c">
+<area shape="rect" id="node2" href="$scb_8h.html" title="libopencm3/cm3/scb.h" alt="" coords="383,169,537,196"/>
+<area shape="rect" id="node7" href="$vector_8h.html" title="Definitions for handling vector tables. " alt="" coords="197,87,365,114"/>
+<area shape="rect" id="node10" href="$dispatch_2vector__chipset_8c.html" title="../dispatch/vector\l_chipset.c" alt="" coords="468,80,591,121"/>
+<area shape="rect" id="node11" href="$dispatch_2vector__nvic_8c.html" title="../dispatch/vector\l_nvic.c" alt="" coords="615,80,737,121"/>
+<area shape="rect" id="node3" href="$cm3_2memorymap_8h.html" title="libopencm3/cm3/memorymap.h" alt="" coords="378,251,582,278"/>
+<area shape="rect" id="node4" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="171,251,354,278"/>
+<area shape="rect" id="node8" href="$cm3_2nvic_8h.html" title="libopencm3/cm3/nvic.h" alt="" coords="203,169,359,196"/>
+<area shape="rect" id="node9" href="$dispatch_2nvic_8h.html" title="libopencm3/dispatch\l/nvic.h" alt="" coords="5,244,147,285"/>
+</map>

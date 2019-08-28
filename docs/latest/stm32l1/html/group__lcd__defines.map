@@ -1,0 +1,4 @@
+<map id="LCD Defines" name="LCD Defines">
+<area shape="rect" id="node1" href="$group__lcd__reg__base.html" title="LCD register base addresses" alt="" coords="341,5,533,32"/>
+<area shape="rect" id="node3" href="$group__STM32L1xx__defines.html" title="Defined Constants and Types for the STM32L1xx series. " alt="" coords="5,5,147,32"/>
+</map>

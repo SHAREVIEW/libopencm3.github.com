@@ -1,0 +1,10 @@
+<map id="USART Defines" name="USART Defines">
+<area shape="rect" id="node1" href="$group__usart__cr1__mode.html" title="USART Tx/Rx Mode Selection" alt="" coords="360,5,563,32"/>
+<area shape="rect" id="node2" href="$group__usart__cr2__stopbits.html" title="USART Stop Bit Selection" alt="" coords="373,56,550,83"/>
+<area shape="rect" id="node3" href="$group__usart__cr3__flowcontrol.html" title="USART Hardware Flow\l Control Selection" alt="" coords="381,107,541,149"/>
+<area shape="rect" id="node4" href="$group__usart__sr__flags.html" title="USART Status register\l Flags" alt="" coords="383,173,540,214"/>
+<area shape="rect" id="node5" href="$group__usart__reg__base.html" title="Holds all the U(S)ART peripherals supported. " alt="" coords="388,238,535,279"/>
+<area shape="rect" id="node6" href="$group__usart__convenience__flags.html" title="We define the &quot;common&quot; lower flag bits using a standard name, allowing them to be used regardless of ..." alt="" coords="385,303,538,345"/>
+<area shape="rect" id="node7" href="$group__usart__cr1__parity.html" title="USART Parity Selection" alt="" coords="379,369,543,396"/>
+<area shape="rect" id="node8" href="$group__STM32L1xx__defines.html" title="Defined Constants and Types for the STM32L1xx series. " alt="" coords="5,180,147,207"/>
+</map>

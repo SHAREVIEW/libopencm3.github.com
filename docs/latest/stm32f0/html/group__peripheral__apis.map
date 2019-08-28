@@ -1,0 +1,17 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32F0xx Reset and Clock Control " alt="" coords="175,5,313,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="GPIO peripheral API" alt="" coords="173,56,315,83"/>
+<area shape="rect" id="node3" href="$group__dac__file.html" title="DAC peripheral API" alt="" coords="175,107,313,133"/>
+<area shape="rect" id="node4" href="$group__usart__file.html" title="USART peripheral API" alt="" coords="167,157,321,184"/>
+<area shape="rect" id="node6" href="$group__iwdg__file.html" title="IWDG peripheral API" alt="" coords="171,208,317,235"/>
+<area shape="rect" id="node7" href="$group__dma__file.html" title="LGPL License Terms libopencm3 License. " alt="" coords="175,259,313,285"/>
+<area shape="rect" id="node8" href="$group__pwr__file.html" title="PWR peripheral API" alt="" coords="174,309,314,336"/>
+<area shape="rect" id="node9" href="$group__exti__file.html" title="EXTI peripheral API" alt="" coords="175,360,313,387"/>
+<area shape="rect" id="node10" href="$group__rtc__file.html" title="RTC peripheral API" alt="" coords="176,411,312,437"/>
+<area shape="rect" id="node11" href="$group__spi__file.html" title="SPI peripheral API" alt="" coords="179,461,309,488"/>
+<area shape="rect" id="node12" href="$group__crc__file.html" title="CRC peripheral API" alt="" coords="175,512,313,539"/>
+<area shape="rect" id="node13" href="$group__adc__file.html" title="based on F3 file " alt="" coords="175,563,313,589"/>
+<area shape="rect" id="node14" href="$group__i2c__file.html" title="I2C peripheral API" alt="" coords="179,613,309,640"/>
+<area shape="rect" id="node15" href="$group__flash__file.html" title="libopencm3 STM32F05x FLASH " alt="" coords="169,664,319,691"/>
+<area shape="rect" id="node16" href="$group__timer__file.html" title="TIMER peripheral API" alt="" coords="169,715,319,741"/>
+</map>

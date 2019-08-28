@@ -1,0 +1,5 @@
+<map id="LPC17xx Defines" name="LPC17xx Defines">
+<area shape="rect" id="node1" href="$group__pwr__defines.html" title="Defined Constants and Types for the LPC17xx Power Control " alt="" coords="179,5,287,32"/>
+<area shape="rect" id="node2" href="$group__clock__defines.html" title="Defined Constants and Types for the LPC17xx Clock " alt="" coords="180,56,285,83"/>
+<area shape="rect" id="node3" href="$group__gpio__defines.html" title="Defined Constants and Types for the LPC17xx General Purpose I/O " alt="" coords="181,107,285,133"/>
+</map>

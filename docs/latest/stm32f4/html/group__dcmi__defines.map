@@ -1,0 +1,12 @@
+<map id="DCMI Defines" name="DCMI Defines">
+<area shape="rect" id="node1" href="$group__STM32F4xx__defines.html" title="Defined Constants and Types for the STM32F4xx series. " alt="" coords="5,208,148,235"/>
+<area shape="rect" id="node2" href="$group__dcmi__cwstrt__values.html" title="DCMI_CWSTRT Values" alt="" coords="351,5,517,32"/>
+<area shape="rect" id="node3" href="$group__dcmi__esur__values.html" title="DCMI_ESUR Values" alt="" coords="361,56,507,83"/>
+<area shape="rect" id="node4" href="$group__dcmi__mis__values.html" title="DCMI_MIS Values" alt="" coords="368,107,500,133"/>
+<area shape="rect" id="node5" href="$group__dcmi__ier__values.html" title="DCMI_IER Values" alt="" coords="369,157,499,184"/>
+<area shape="rect" id="node6" href="$group__dcmi__escr__values.html" title="DCMI_ESCR Values" alt="" coords="361,208,507,235"/>
+<area shape="rect" id="node8" href="$group__dcmi__cwsize__values.html" title="DCMI_CWSIZE Values" alt="" coords="353,259,515,285"/>
+<area shape="rect" id="node9" href="$group__dcmi__ris__values.html" title="DCMI_RIS Values" alt="" coords="369,309,499,336"/>
+<area shape="rect" id="node10" href="$group__dcmi__icr__values.html" title="DCMI_ICR Values" alt="" coords="368,360,500,387"/>
+<area shape="rect" id="node11" href="$group__dcmi__cr__values.html" title="DCMI_CR Values" alt="" coords="370,411,498,437"/>
+</map>

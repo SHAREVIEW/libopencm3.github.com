@@ -1,0 +1,26 @@
+<map id="STM32F4xx Defines" name="STM32F4xx Defines">
+<area shape="rect" id="node2" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32F4xx Reset and Clock Control " alt="" coords="209,5,310,32"/>
+<area shape="rect" id="node3" href="$group__crypto__defines.html" title="Defined constants and Types for the STM32F4xx Crypto Coprocessor " alt="" coords="196,56,323,83"/>
+<area shape="rect" id="node4" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32F4xx Low Power Timer " alt="" coords="204,107,315,133"/>
+<area shape="rect" id="node5" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32F4xx Power Control " alt="" coords="208,157,311,184"/>
+<area shape="rect" id="node6" href="$group__syscfg__defines.html" title="Defined Constants and Types for the STM32F4xx Sysconfig. " alt="" coords="196,208,323,235"/>
+<area shape="rect" id="node7" href="$group__crc__defines.html" title="libopencm3 Defined Constants and Types for the STM32F4xx CRC Generator &#160;" alt="" coords="209,259,310,285"/>
+<area shape="rect" id="node8" href="$group__dma2d__defines.html" title="Defined Constants and Types for the STM32F4xx DMA2D Peripheral " alt="" coords="200,309,319,336"/>
+<area shape="rect" id="node9" href="$group__dac__defines.html" title="Defined Constants and Types for the STM32F4xx DAC " alt="" coords="209,360,309,387"/>
+<area shape="rect" id="node10" href="$group__dcmi__defines.html" title="Defined Constants and Macros for the STM32F4xx DCMI Peripheral. " alt="" coords="206,411,313,437"/>
+<area shape="rect" id="node11" href="$group__i2c__defines.html" title="Defined Constants and Types for the STM32F4xx I2C &#160;" alt="" coords="213,461,305,488"/>
+<area shape="rect" id="node12" href="$group__exti__defines.html" title="Defined Constants and Types for the STM32F4xx External Interrupts &#160;" alt="" coords="209,512,310,539"/>
+<area shape="rect" id="node13" href="$group__iwdg__defines.html" title="Defined Constants and Types for the STM32F4xx Independent Watchdog Timer " alt="" coords="205,563,313,589"/>
+<area shape="rect" id="node14" href="$group__dsi__defines.html" title="Defines Constants and Macros for the STM32F4xx Display Serial Interface Host and Wrapper ..." alt="" coords="212,613,307,640"/>
+<area shape="rect" id="node15" href="$group__spi__defines.html" title="Defined Constants and Types for the STM32F4xx SPI " alt="" coords="213,664,306,691"/>
+<area shape="rect" id="node16" href="$group__ltdc__defines.html" title="Defined Constants and Types for the STM32F4xx LCD TFT Display Controller " alt="" coords="206,715,313,741"/>
+<area shape="rect" id="node17" href="$group__gpio__defines.html" title="Defined Constants and Types for the STM32F4xx General Purpose I/O " alt="" coords="207,765,311,792"/>
+<area shape="rect" id="node18" href="$group__fmc__defines.html" title="Defined Constants and Types for the STM32F4xx Flexible Memory Controller " alt="" coords="209,816,309,843"/>
+<area shape="rect" id="node19" href="$group__timer__defines.html" title="libopencm3 Defined Constants and Types for the STM32F4xx Timers " alt="" coords="207,867,311,893"/>
+<area shape="rect" id="node20" href="$group__hash__defines.html" title="Defined Constants and Types for the STM32F4xx HASH Controller. " alt="" coords="205,917,314,944"/>
+<area shape="rect" id="node21" href="$group__adc__defines.html" title="Defined Constants and Types for the STM32F4xx Analog to Digital Converters " alt="" coords="209,968,309,995"/>
+<area shape="rect" id="node22" href="$group__usart__defines.html" title="Defined Constants and Types for the STM32F4xx USART " alt="" coords="201,1019,318,1045"/>
+<area shape="rect" id="node23" href="$group__rtc__defines.html" title="Defined Constants and Types for the STM32F4xx RTC " alt="" coords="210,1069,309,1096"/>
+<area shape="rect" id="node24" href="$group__dma__defines.html" title="Defined Constants and Types for the STM32F4xx DMA Controller. " alt="" coords="209,1120,310,1147"/>
+<area shape="rect" id="node25" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32F4xx FLASH Memory. " alt="" coords="202,1171,317,1197"/>
+</map>

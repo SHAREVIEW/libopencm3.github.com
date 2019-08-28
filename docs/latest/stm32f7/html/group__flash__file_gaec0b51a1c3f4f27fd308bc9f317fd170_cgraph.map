@@ -1,0 +1,6 @@
+<map id="flash_program" name="flash_program">
+<area shape="rect" id="node2" href="$group__flash__file.html#gaecb2ef6a6334477e36fceed302b1ab6d" title="Program an 8 bit Byte to FLASH. " alt="" coords="157,42,293,69"/>
+<area shape="rect" id="node3" href="$group__flash__file.html#ga72ce389bb20296771479ace8cdb62dff" title="Wait until Last Operation has Ended. " alt="" coords="356,5,487,47"/>
+<area shape="rect" id="node5" href="$group__flash__file.html#gabe30bb2a8f268a494d3600c0dfc5406d" title="Set the Program Parallelism Size. " alt="" coords="341,71,501,98"/>
+<area shape="rect" id="node4" href="$group__flash__file.html#ga4d5b1d19072f5ce2b3582170fe476936" title="Issue Pipeline Stall. " alt="" coords="549,13,681,39"/>
+</map>

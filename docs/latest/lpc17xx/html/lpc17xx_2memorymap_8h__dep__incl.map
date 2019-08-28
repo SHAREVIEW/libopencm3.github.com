@@ -1,0 +1,7 @@
+<map id="memorymap.h" name="memorymap.h">
+<area shape="rect" id="node2" href="$clock_8h.html" title="clock.h" alt="" coords="5,80,69,107"/>
+<area shape="rect" id="node3" href="$gpio_8h.html" title="gpio.h" alt="" coords="94,80,151,107"/>
+<area shape="rect" id="node5" href="$pwr_8h.html" title="pwr.h" alt="" coords="175,80,230,107"/>
+<area shape="rect" id="node4" href="$gpio_8c.html" title="gpio.c" alt="" coords="94,155,151,181"/>
+<area shape="rect" id="node6" href="$pwr_8c.html" title="pwr.c" alt="" coords="175,155,230,181"/>
+</map>

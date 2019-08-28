@@ -1,0 +1,11 @@
+<map id="uart_is_rx_fifo_empty" name="uart_is_rx_fifo_empty">
+<area shape="rect" id="node2" href="$group__uart__defines.html#gab5fd7ee81bc609e4aca33a4b9079611b" title="Mark interrupt as serviced. " alt="" coords="201,5,363,32"/>
+<area shape="rect" id="node3" href="$group__uart__defines.html#ga2fdf35d91a90e2452368b0358d942f93" title="Enable Specific UART Interrupts. " alt="" coords="205,56,359,83"/>
+<area shape="rect" id="node4" href="$group__uart__defines.html#ga6c46b4228c1da4010f8e8d5a66bde0c0" title="Disable the UART Receive Interrupt. " alt="" coords="200,107,364,133"/>
+<area shape="rect" id="node6" href="$group__uart__defines.html#ga2d6559da0d940412e88374af5fe8a5dc" title="Disable the UART Transmit Interrupt. " alt="" coords="200,157,364,184"/>
+<area shape="rect" id="node7" href="$group__uart__defines.html#ga20cf32aae3969a9b1e857cd1ca145a27" title="Enable Specific UART Interrupts. " alt="" coords="207,208,357,235"/>
+<area shape="rect" id="node8" href="$group__uart__defines.html#gac40fe4cd2b2d331d83100e305c2f6f78" title="Enable the UART Receive Interrupt. " alt="" coords="201,259,363,285"/>
+<area shape="rect" id="node10" href="$group__uart__defines.html#gaab2f52c4fdb9b8ba9e89670e93727ecf" title="Enable the UART Transmit Interrupt. " alt="" coords="201,309,363,336"/>
+<area shape="rect" id="node5" href="$group__uart__irq.html#ga2fdf35d91a90e2452368b0358d942f93" title="Enable Specific UART Interrupts. " alt="" coords="412,132,565,159"/>
+<area shape="rect" id="node9" href="$group__uart__irq.html#ga20cf32aae3969a9b1e857cd1ca145a27" title="Enable Specific UART Interrupts. " alt="" coords="413,284,564,311"/>
+</map>

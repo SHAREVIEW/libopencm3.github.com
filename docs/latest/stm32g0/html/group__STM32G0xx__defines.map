@@ -1,0 +1,15 @@
+<map id="STM32G0xx Defines" name="STM32G0xx Defines">
+<area shape="rect" id="node1" href="$group__rcc__defines.html" title="Defined Constants and Types for the STM32G0xx Reset and Clock Control " alt="" coords="205,5,307,32"/>
+<area shape="rect" id="node2" href="$group__lptimer__defines.html" title="libopencm3 Defined Constants and Types for the STM32G0xx Low Power Timer " alt="" coords="201,56,311,83"/>
+<area shape="rect" id="node3" href="$group__pwr__defines.html" title="Defined Constants and Types for the STM32G0xx PWR Control " alt="" coords="205,107,307,133"/>
+<area shape="rect" id="node4" href="$group__crc__defines.html" title="Defined Constants and Types for the STM32G0xx CRC Generator &#160;" alt="" coords="205,157,307,184"/>
+<area shape="rect" id="node5" href="$group__rng__defines.html" title="Defined Constants and Types for the STM32G0xx EXTI Control " alt="" coords="205,208,307,235"/>
+<area shape="rect" id="node6" href="$group__i2c__defines.html" title="Defined Constants and Types for the STM32G0xx I2C " alt="" coords="210,259,302,285"/>
+<area shape="rect" id="node7" href="$group__exti__defines.html" title="Defined Constants and Types for the STM32G0xx EXTI Control " alt="" coords="205,309,307,336"/>
+<area shape="rect" id="node8" href="$group__iwdg__defines.html" title="Defined Constants and Types for the STM32G0xx Independent Watchdog Timer " alt="" coords="202,360,310,387"/>
+<area shape="rect" id="node9" href="$group__spi__defines.html" title="Defined Constants and Types for the STM32G0xx SPI " alt="" coords="209,411,303,437"/>
+<area shape="rect" id="node10" href="$group__gpio__defines.html" title="Defined Constants and Types for the STM32G0xx General Purpose I/O " alt="" coords="204,461,308,488"/>
+<area shape="rect" id="node11" href="$group__timer__defines.html" title="Defined Constants and Types for the STM32G0xx Timers " alt="" coords="204,512,308,539"/>
+<area shape="rect" id="node12" href="$group__usart__defines.html" title="Defined Constants and Types for the STM32G0xx USART " alt="" coords="197,563,315,589"/>
+<area shape="rect" id="node14" href="$group__flash__defines.html" title="Defined Constants and Types for the STM32G0xx Flash Control " alt="" coords="199,613,313,640"/>
+</map>

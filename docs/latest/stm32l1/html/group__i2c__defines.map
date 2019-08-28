@@ -1,0 +1,7 @@
+<map id="I2C Defines" name="I2C Defines">
+<area shape="rect" id="node1" href="$group__i2c__duty__cycle.html" title="I2C peripheral clock\l duty cycles" alt="" coords="351,5,490,47"/>
+<area shape="rect" id="node2" href="$group__i2c__clock.html" title="I2C clock frequency\l settings" alt="" coords="351,71,490,112"/>
+<area shape="rect" id="node4" href="$group__i2c__reg__base.html" title="I2C register base address" alt="" coords="335,137,507,163"/>
+<area shape="rect" id="node6" href="$group__i2c__rw.html" title="I2C Read/Write bit" alt="" coords="355,187,486,214"/>
+<area shape="rect" id="node5" href="$group__STM32L1xx__defines.html" title="Defined Constants and Types for the STM32L1xx series. " alt="" coords="5,107,147,134"/>
+</map>

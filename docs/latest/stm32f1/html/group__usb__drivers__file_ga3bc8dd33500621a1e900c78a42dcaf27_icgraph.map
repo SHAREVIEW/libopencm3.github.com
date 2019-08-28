@@ -1,0 +1,4 @@
+<map id="_usbd_reset" name="_usbd_reset">
+<area shape="rect" id="node2" href="$usb__dwc__common_8c.html#ac18ae387118233bdd63bede05a06ce63" title="dwc_poll" alt="" coords="159,5,233,32"/>
+<area shape="rect" id="node3" href="$st__usbfs__core_8c.html#a069f5da24984af82fe888020c347c208" title="st_usbfs_poll" alt="" coords="147,56,245,83"/>
+</map>

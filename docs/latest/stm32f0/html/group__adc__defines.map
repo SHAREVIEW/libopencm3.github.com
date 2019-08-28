@@ -1,0 +1,18 @@
+<map id="ADC Defines" name="ADC Defines">
+<area shape="rect" id="node1" href="$group__adc__ier.html" title="IER ADC interrupt enable\l register" alt="" coords="367,5,538,47"/>
+<area shape="rect" id="node2" href="$group__adc__api__opmode.html" title="ADC Result API. " alt="" coords="375,71,530,98"/>
+<area shape="rect" id="node3" href="$group__adc__api__res.html" title="ADC resolutions" alt="" coords="393,122,512,149"/>
+<area shape="rect" id="node4" href="$group__adc__channel.html" title="ADC Channel Numbers" alt="" coords="373,173,533,199"/>
+<area shape="rect" id="node5" href="$group__adc__isr.html" title="ISR ADC interrupt status\l register" alt="" coords="368,224,537,265"/>
+<area shape="rect" id="node6" href="$group__adc__api__smptime.html" title="ADC sampling time" alt="" coords="385,290,521,317"/>
+<area shape="rect" id="node7" href="$group__adc__cr.html" title="CR ADC control register" alt="" coords="370,341,535,367"/>
+<area shape="rect" id="node8" href="$group__adc__smpr.html" title="SMPR ADC sample time\l register" alt="" coords="368,392,537,433"/>
+<area shape="rect" id="node9" href="$group__adc__ccr.html" title="CCR ADC common configuration\l register" alt="" coords="344,457,561,499"/>
+<area shape="rect" id="node10" href="$group__STM32F0xx__defines.html" title="Defined Constants and Types for the STM32F0xx series. " alt="" coords="5,399,148,426"/>
+<area shape="rect" id="node11" href="$group__adc__api__clksource.html" title="ADC clock source" alt="" coords="388,523,517,550"/>
+<area shape="rect" id="node13" href="$group__adc__cfgr1.html" title="CFGR1 ADC configuration\l register 1" alt="" coords="363,575,542,616"/>
+<area shape="rect" id="node14" href="$group__adc__cfgr2.html" title="CFGR2 ADC configuration\l register 2" alt="" coords="363,640,542,681"/>
+<area shape="rect" id="node15" href="$group__adc__chselr.html" title="Adc_chselr" alt="" coords="409,706,496,733"/>
+<area shape="rect" id="node16" href="$group__adc__reg__base.html" title="ADC register base addresses" alt="" coords="355,757,550,783"/>
+<area shape="rect" id="node17" href="$group__adc__tr1.html" title="TR1 ADC watchdog threshold\l register 1" alt="" coords="354,808,551,849"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Peripheral APIs" name="Peripheral APIs">
+<area shape="rect" id="node1" href="$group__burtc__file.html" title="Backup RTC helper functions. " alt="" coords="187,5,341,32"/>
+<area shape="rect" id="node2" href="$group__wdog__file.html" title="Watchdog Module helper functions. " alt="" coords="189,56,339,83"/>
+<area shape="rect" id="node3" href="$group__gpio__file.html" title="GPIO peripheral API" alt="" coords="193,107,335,133"/>
+<area shape="rect" id="node4" href="$group__dac__file.html" title="DAC peripheral API" alt="" coords="195,157,333,184"/>
+<area shape="rect" id="node5" href="$group__usart__file.html" title="UART/USART helper functions. " alt="" coords="167,208,361,235"/>
+<area shape="rect" id="node7" href="$group__acmp__file.html" title="Analog Comparator helper functions. " alt="" coords="191,259,337,285"/>
+<area shape="rect" id="node8" href="$group__dma__file.html" title="DMA peripheral API" alt="" coords="195,309,333,336"/>
+<area shape="rect" id="node9" href="$group__rtc__file.html" title="Real Time Clock helper functions. " alt="" coords="196,360,332,387"/>
+<area shape="rect" id="node10" href="$group__letimer__file.html" title="Low Energy Timer helper functions. " alt="" coords="181,411,347,437"/>
+<area shape="rect" id="node11" href="$group__rmu__file.html" title="Reset Management Unit helper functions. " alt="" coords="195,461,333,488"/>
+<area shape="rect" id="node12" href="$group__adc__file.html" title="ADC peripheral API" alt="" coords="195,512,333,539"/>
+<area shape="rect" id="node13" href="$group__i2c__file.html" title="I²C helper functions. " alt="" coords="199,563,329,589"/>
+<area shape="rect" id="node14" href="$group__cmu__file.html" title="CMU peripheral API" alt="" coords="195,613,333,640"/>
+<area shape="rect" id="node15" href="$group__usb__file.html" title="USB peripheral API" alt="" coords="196,664,332,691"/>
+<area shape="rect" id="node16" href="$group__prs__file.html" title="EFM32 Peripheral Reflex System (PRS). " alt="" coords="196,715,332,741"/>
+<area shape="rect" id="node17" href="$group__emu__file.html" title="Energy Management Unit helper functions. " alt="" coords="195,765,333,792"/>
+<area shape="rect" id="node18" href="$group__msc__file.html" title="Memory Systems Controller helper functions. " alt="" coords="195,816,333,843"/>
+<area shape="rect" id="node19" href="$group__timer__file.html" title="TIMER peripheral API" alt="" coords="189,867,339,893"/>
+</map>

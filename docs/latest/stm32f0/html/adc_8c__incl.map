@@ -1,0 +1,6 @@
+<map id="adc.c" name="adc.c">
+<area shape="rect" id="node2" href="$assert_8h.html" title="libopencm3/cm3/assert.h" alt="" coords="13,80,181,107"/>
+<area shape="rect" id="node6" href="$adc_8h.html" title="libopencm3/stm32/adc.h" alt="" coords="205,80,369,107"/>
+<area shape="rect" id="node3" href="$common_8h.html" title="libopencm3/cm3/common.h" alt="" coords="5,155,188,181"/>
+<area shape="rect" id="node7" href="$stm32_2memorymap_8h.html" title="libopencm3/stm32/memorymap.h" alt="" coords="212,155,427,181"/>
+</map>
